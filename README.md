@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello, I'm Ellem 👋
 
-<!--
-**ellemmatos/ellemmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Agile Coach and Software Architect passionate about building scalable systems and helping teams deliver value.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Agile Coach leading transformation across multiple teams
+- Background in software development and system architecture
+- Focused on .NET, Cloud and distributed systems
+- Passionate about high-performing engineering teams
+
+## 🛠 Tech Stack
+
+- .NET
+- Azure
+- Microservices
+- Docker
+- Kubernetes
+- GitHub Actions
+- Agile / Scrum
+
+## 📂 Current Focus
+
+- Agile transformation
+- Software architecture
+- Engineering productivity
+- AI tools for development teams
+
+## 🌎 Connect with me
+
+LinkedIn  
+https://linkedin.com/in/ellemmatos
+
+---
+
+⭐ Always learning. Always improving systems and teams.
