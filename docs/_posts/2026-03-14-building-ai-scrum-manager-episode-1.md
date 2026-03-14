@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building AI Scrum Manager — Episode 1"
-date: 2026-03-14 13:57:14
+date: 2026-03-14 14:07:15
 categories: development ai startup
 ---
 ## AI Scrum Manager keeps improving delivery orchestration
