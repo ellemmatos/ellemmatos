@@ -6,7 +6,9 @@ title: Ellem Matos
 <link rel="stylesheet" href="/ellemmatos/assets/css/style.css">
 
 <div class="hero">
-  <div class="avatar"></div>
+  <div class="avatar">
+    <img src="/ellemmatos/assets/images/avatar.png" alt="Ellem Matos">
+  </div>
   <div class="hero-title">
     Ellem Matos
   </div>
