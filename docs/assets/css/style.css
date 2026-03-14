@@ -1,0 +1,26 @@
+.hero {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: #000;
+  margin: 0 auto 20px auto;
+}
+
+.hero-title {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.hero-subtitle {
+  color: #666;
+  margin-top: 10px;
+}
+
+.posts-section {
+  margin-top: 60px;
+}

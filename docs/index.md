@@ -3,16 +3,20 @@ layout: home
 title: Ellem Matos
 ---
 
-# Building AI in Public
+<link rel="stylesheet" href="/ellemmatos/assets/css/style.css">
 
-This blog documents the development of the **IHaveADreamAI ecosystem**.
+<div class="hero">
+  <div class="avatar"></div>
+  <div class="hero-title">
+    Ellem Matos
+  </div>
+  <div class="hero-subtitle">
+    Building AI Systems in Public
+  </div>
+</div>
 
-Projects included:
+<div class="posts-section">
 
-- ai-scrum-manager
-- ai-content-factory
-- ai-blog-engine
-- i-have-a-dream-ai
-- i-have-a-dream-workspace
+## Latest Posts
 
-## Latest posts
+</div>
