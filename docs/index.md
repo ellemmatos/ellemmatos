@@ -36,7 +36,7 @@ title: Ellem Matos
       <a class="topic-card" href="/ellemmatos/">
         Startup Building
       </a>
-      <a class="topic-card" href="/ellemmatos/">
+      <a class="topic-card" href="/ellemmatos/topics/architecture/">
         Architecture
       </a>
       <a class="topic-card" href="/ellemmatos/">
