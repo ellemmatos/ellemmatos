@@ -18,10 +18,18 @@
 </div>
 {% endif %}
 
-<ul>
-  {% for post in project_posts %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
+<div class="project-posts">
+  <h3>Episodes</h3>
+  <ul class="project-post-list">
+    {% for post in project_posts %}
+    <li class="project-post-item">
+      <a class="project-post-title" href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+      <div class="project-post-meta">
+        {{ post.date | date: "%B %-d, %Y" }}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
