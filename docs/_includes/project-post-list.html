@@ -1,0 +1,9 @@
+{% assign project_posts = site.posts | where: "project", page.project | sort: "date" | reverse %}
+
+<ul>
+  {% for post in project_posts %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>

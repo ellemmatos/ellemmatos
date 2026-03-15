@@ -1,0 +1,13 @@
+projects:
+  - id: ai-scrum-manager
+    name: AI Scrum Manager
+    description: Building an AI-powered Scrum project manager.
+    github: https://github.com/ellemmatos/ai-scrum-manager
+
+  - id: ai-content-factory
+    name: AI Content Factory
+    description: Automated pipeline for generating technical content.
+
+  - id: ai-blog-engine
+    name: AI Blog Engine
+    description: Engine responsible for generating blog content.

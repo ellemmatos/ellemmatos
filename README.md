@@ -89,3 +89,11 @@ Posts can also define social sharing metadata fields:
 
 `summary` is used for description metadata and rich previews.
 `image` can override the default social image for a specific post.
+
+## Project Pages
+
+Project pages aggregate posts that share the same `project` metadata field.
+
+- Project registry: `docs/_data/projects.yml`
+- Project pages: `docs/projects/`
+- Post list include: `docs/_includes/project-post-list.html`
