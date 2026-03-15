@@ -27,6 +27,24 @@ title: Ellem Matos
     </div>
   </div>
 
+  <div class="topics-section">
+    <h2>Topics</h2>
+    <div class="topics-grid">
+      <a class="topic-card" href="/ellemmatos/">
+        AI Engineering
+      </a>
+      <a class="topic-card" href="/ellemmatos/">
+        Startup Building
+      </a>
+      <a class="topic-card" href="/ellemmatos/">
+        Architecture
+      </a>
+      <a class="topic-card" href="/ellemmatos/">
+        Developer Workflow
+      </a>
+    </div>
+  </div>
+
   <div class="posts-section">
 
 ## Latest Posts

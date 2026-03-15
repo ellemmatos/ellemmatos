@@ -107,3 +107,33 @@
 .menu-panel.open {
   display: block;
 }
+
+.topics-section {
+  margin-top: 70px;
+  text-align: center;
+}
+
+.topics-grid {
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.topic-card {
+  padding: 14px;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #111;
+  background: white;
+  font-weight: 500;
+}
+
+.topic-card:hover {
+  border-color: #0b1b34;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+}
