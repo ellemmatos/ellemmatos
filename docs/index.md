@@ -45,7 +45,11 @@ title: Ellem Matos
         </h3>
 
         <p class="latest-post-summary">
-          {{ post.summary }}
+          {% if post.summary %}
+            {{ post.summary }}
+          {% else %}
+            {{ post.excerpt | strip_html | truncate: 160 }}
+          {% endif %}
         </p>
 
         <p class="latest-post-meta">
