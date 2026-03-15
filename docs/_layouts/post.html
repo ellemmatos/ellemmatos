@@ -16,7 +16,17 @@ layout: default
     <p class="post-topics">
       Topics:
       {% for category in page.categories %}
-        <a href="/ellemmatos/topics/{{ category }}/" class="topic-link">{{ category }}</a>{% unless forloop.last %} &middot; {% endunless %}
+        {% assign topic_slug = category %}
+        {% if category == "ai" %}
+          {% assign topic_slug = "ai-engineering" %}
+        {% endif %}
+        {% if category == "startup" %}
+          {% assign topic_slug = "startup-building" %}
+        {% endif %}
+        {% if category == "development" %}
+          {% assign topic_slug = "developer-workflow" %}
+        {% endif %}
+        <a href="/ellemmatos/topics/{{ topic_slug }}/" class="topic-link">{{ category }}</a>{% unless forloop.last %} &middot; {% endunless %}
       {% endfor %}
     </p>
     {% endif %}
