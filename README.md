@@ -100,3 +100,4 @@ Project pages aggregate posts that share the same `project` metadata field.
 
 When a post defines `project`, the post metadata automatically links to the
 matching project page when the project exists in the registry.
+Project pages also surface topic and series context derived from related posts.

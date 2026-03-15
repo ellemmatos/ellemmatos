@@ -1,4 +1,22 @@
 {% assign project_posts = site.posts | where: "project", page.project | sort: "date" | reverse %}
+{% assign first_post = project_posts | first %}
+{% assign topic = nil %}
+
+{% if first_post and first_post.topic %}
+  {% assign topic = site.data.topics.topics | where: "id", first_post.topic | first %}
+{% endif %}
+
+{% if topic or first_post.series %}
+<div class="project-context">
+  {% if topic %}
+  <p>Topic: <a href="{{ topic.path | relative_url }}">{{ topic.title }}</a></p>
+  {% endif %}
+
+  {% if first_post.series %}
+  <p>Series: {{ first_post.series | replace: "-", " " | capitalize }}</p>
+  {% endif %}
+</div>
+{% endif %}
 
 <ul>
   {% for post in project_posts %}
