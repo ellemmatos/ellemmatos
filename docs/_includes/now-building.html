@@ -2,16 +2,16 @@
   <h2>Now Building</h2>
 
   <ul class="now-building-list">
+    {% for project in site.data.projects.projects limit:3 %}
     <li>
-      <strong>AI Scrum Manager</strong> &mdash; building an AI system to orchestrate Scrum delivery workflows.
-    </li>
+      <strong>
+        <a href="/projects/{{ project.id }}/">
+          {{ project.name }}
+        </a>
+      </strong>
 
-    <li>
-      <strong>AI Blog Engine</strong> &mdash; automating the generation of engineering blog posts from repositories.
+      &mdash; {{ project.description }}
     </li>
-
-    <li>
-      <strong>AI Content Factory</strong> &mdash; a pipeline for generating structured technical content using AI.
-    </li>
+    {% endfor %}
   </ul>
 </section>
