@@ -10,23 +10,29 @@
   <body class="{% if page.layout == 'home' %}home{% endif %}">
     {% assign active_topic = "" %}
 
-    {% if page.url contains "/topics/ai-engineering" %}
-    {% assign active_topic = "ai-engineering" %}
+    {% if page.topic %}
+    {% assign active_topic = page.topic %}
     {% endif %}
 
-    {% if page.url contains "/topics/architecture" %}
-    {% assign active_topic = "architecture" %}
+    {% if active_topic == "" %}
+      {% if page.url contains "/topics/ai-engineering" %}
+      {% assign active_topic = "ai-engineering" %}
+      {% endif %}
+
+      {% if page.url contains "/topics/architecture" %}
+      {% assign active_topic = "architecture" %}
+      {% endif %}
+
+      {% if page.url contains "/topics/developer-workflow" %}
+      {% assign active_topic = "developer-workflow" %}
+      {% endif %}
+
+      {% if page.url contains "/topics/startup-building" %}
+      {% assign active_topic = "startup-building" %}
+      {% endif %}
     {% endif %}
 
-    {% if page.url contains "/topics/developer-workflow" %}
-    {% assign active_topic = "developer-workflow" %}
-    {% endif %}
-
-    {% if page.url contains "/topics/startup-building" %}
-    {% assign active_topic = "startup-building" %}
-    {% endif %}
-
-    {% if page.layout == "post" %}
+    {% if active_topic == "" and page.layout == "post" %}
       {% if page.categories contains "ai" %}
       {% assign active_topic = "ai-engineering" %}
       {% endif %}
