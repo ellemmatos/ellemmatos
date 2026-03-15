@@ -225,13 +225,14 @@ section {
 }
 
 .topic-card {
+  display: block;
   padding: 1.2rem;
   border-radius: 10px;
   border: 1px solid #e5e7eb;
   background: white;
   transition: all 0.15s ease;
   text-decoration: none;
-  color: #111;
+  color: inherit;
   font-weight: 500;
 }
 

@@ -1,8 +1,6 @@
-<div class="topic-card">
+<a class="topic-card" href="/ellemmatos/topics/{{ include.topic.id }}/" target="_blank" rel="noopener">
   <h3 class="topic-title">
-    <a href="/ellemmatos/topics/{{ include.topic.id }}/" target="_blank" rel="noopener">
-      {{ include.topic.title }}
-    </a>
+    {{ include.topic.title }}
   </h3>
 
   {% if include.topic.description %}
@@ -10,4 +8,4 @@
     {{ include.topic.description }}
   </p>
   {% endif %}
-</div>
+</a>
