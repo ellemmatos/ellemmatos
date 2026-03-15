@@ -37,6 +37,11 @@ https://linkedin.com/in/ellemmatos
 ## Topic Registry
 
 Blog topics are now centrally defined in `docs/_data/topics.yml`.
-This registry is the source of truth for navigation labels and topic paths,
-and prepares the blog for modular rendering and future integration with
+This registry is the source of truth for navigation labels and topic paths.
+
+Topics are now used by:
+- header navigation
+- homepage topic cards
+
+This prepares the blog for modular rendering and future integration with
 `ai-content-factory`.
