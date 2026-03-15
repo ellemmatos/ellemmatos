@@ -23,6 +23,8 @@ title: Ellem Matos
     </div>
   </div>
 
+  {% include featured-project.html %}
+
   <div class="topics-section">
     <h2>Topics</h2>
     <div class="topics-grid">
