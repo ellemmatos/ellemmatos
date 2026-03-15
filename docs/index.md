@@ -35,6 +35,8 @@ title: Ellem Matos
     </p>
   </section>
 
+  {% include now-building.html %}
+
   {% include featured-project.html %}
 
   <div class="topics-section">
