@@ -291,6 +291,41 @@ p {
   border-top: 1px solid #eee;
 }
 
+.series-navigation {
+  margin: 2rem 0;
+  padding: 1.2rem 1.5rem;
+  border-left: 4px solid #4f46e5;
+  background: #f9fafb;
+  border-radius: 6px;
+}
+
+.series-navigation h3 {
+  margin-top: 0;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #374151;
+}
+
+.series-navigation ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+.series-navigation li {
+  margin: 0.3rem 0;
+}
+
+.series-navigation a {
+  text-decoration: none;
+}
+
+.series-navigation strong {
+  color: #111827;
+}
+
 .post-nav {
   max-width: 720px;
   margin: 40px auto 10px auto;
@@ -428,6 +463,10 @@ p {
   .page-container {
     padding-left: 18px;
     padding-right: 18px;
+  }
+
+  .series-navigation {
+    padding: 1rem 1.1rem;
   }
 
   .pagination {
