@@ -9,10 +9,20 @@
   </head>
   <body class="{% if page.layout == 'home' %}home{% endif %}">
     <header class="brand-header">
-      <a href="/ellemmatos/" class="nav-avatar">EM</a>
+      <div class="brand-left">
+        <a href="/ellemmatos/" class="nav-avatar">EM</a>
+      </div>
+
       <nav class="brand-nav">
-        <a href="/ellemmatos/" class="brand-link">Blog</a>
+        <a href="/ellemmatos/topics/ai-engineering/" class="brand-link">AI Engineering</a>
+        <a href="/ellemmatos/topics/architecture/" class="brand-link">Architecture</a>
+        <a href="/ellemmatos/topics/developer-workflow/" class="brand-link">Developer Workflow</a>
+        <a href="/ellemmatos/topics/startup-building/" class="brand-link">Startup Building</a>
       </nav>
+
+      <div class="brand-right">
+        <a href="/ellemmatos/" class="brand-link">Blog</a>
+      </div>
     </header>
 
     <main class="page-content" aria-label="Content">
