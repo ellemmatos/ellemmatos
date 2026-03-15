@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Ellem Matos
+title: I Have a Dream AI
 ---
 
 <div class="container">
