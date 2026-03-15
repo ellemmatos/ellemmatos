@@ -241,6 +241,14 @@ section {
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
 }
 
+/* TOPIC DESCRIPTION */
+
+.topic-description {
+  margin-top: 0.3rem;
+  font-size: 0.9rem;
+  color: #6b7280;
+}
+
 /* FEATURED PROJECT */
 
 .featured-project {

@@ -1,3 +1,13 @@
-<a class="topic-card" href="/ellemmatos{{ include.topic.path }}" target="_blank" rel="noopener">
-  {{ include.topic.title }}
-</a>
+<div class="topic-card">
+  <h3 class="topic-title">
+    <a href="/ellemmatos/topics/{{ include.topic.id }}/" target="_blank" rel="noopener">
+      {{ include.topic.title }}
+    </a>
+  </h3>
+
+  {% if include.topic.description %}
+  <p class="topic-description">
+    {{ include.topic.description }}
+  </p>
+  {% endif %}
+</div>
