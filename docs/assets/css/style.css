@@ -269,6 +269,17 @@ section {
   font-weight: 500;
 }
 
+/* ABOUT BLOG */
+
+.about-blog {
+  margin: 2.5rem 0;
+}
+
+.about-blog p {
+  color: #4b5563;
+  margin-bottom: 0.6rem;
+}
+
 /* LATEST POSTS */
 
 .latest-posts {

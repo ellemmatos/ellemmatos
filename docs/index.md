@@ -23,6 +23,18 @@ title: Ellem Matos
     </div>
   </div>
 
+  <section class="about-blog">
+    <h2>About This Blog</h2>
+
+    <p>
+      This blog documents the process of building AI-powered developer tools and software systems in public.
+    </p>
+
+    <p>
+      It focuses on engineering decisions, architecture, and the lessons learned while creating real projects such as the AI Scrum Manager and other automation platforms.
+    </p>
+  </section>
+
   {% include featured-project.html %}
 
   <div class="topics-section">
