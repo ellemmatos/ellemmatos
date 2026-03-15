@@ -326,6 +326,27 @@ p {
   color: #111827;
 }
 
+.project-context {
+  margin: 1.5rem 0 2rem 0;
+  padding: 1rem 1.3rem;
+  background: #f9fafb;
+  border-left: 4px solid #10b981;
+  border-radius: 6px;
+}
+
+.project-context p {
+  margin: 0.3rem 0;
+  font-size: 0.95rem;
+}
+
+.project-context a {
+  text-decoration: none;
+}
+
+.project-context strong {
+  color: #111827;
+}
+
 .post-nav {
   max-width: 720px;
   margin: 40px auto 10px auto;
@@ -467,6 +488,10 @@ p {
 
   .series-navigation {
     padding: 1rem 1.1rem;
+  }
+
+  .project-context {
+    padding: 0.95rem 1rem;
   }
 
   .pagination {
