@@ -102,6 +102,20 @@ When a post defines `project`, the post metadata automatically links to the
 matching project page when the project exists in the registry.
 Project pages also surface topic and series context derived from related posts.
 
+## Includes
+
+`project-card.html`  
+Reusable card used in the projects index.
+
+`project-post-list.html`  
+Renders posts belonging to a project page, including project context.
+
+`series-navigation.html`  
+Renders episode navigation for posts that belong to a series.
+
+`topic-card.html`  
+Reusable card used in the homepage topics grid.
+
 ## Post Template
 
 The official automated publishing template lives at
