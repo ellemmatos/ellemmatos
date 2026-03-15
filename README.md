@@ -59,6 +59,15 @@ Posts can now define richer editorial metadata in frontmatter:
 These fields are optional and extend the basic `layout`, `title`, `date`, and
 `categories` structure without breaking older posts.
 
+## Post Series
+
+Posts can define series navigation using:
+- `series`
+- `episode`
+
+When multiple posts share the same `series`, the post layout can render a
+series navigation block with all episodes ordered by `episode`.
+
 ## SEO & Distribution
 
 The blog now includes a basic SEO and distribution layer for public sharing.

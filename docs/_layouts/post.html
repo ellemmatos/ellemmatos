@@ -70,6 +70,10 @@ layout: default
     {% endif %}
   </header>
 
+  {% if page.series %}
+  {% include series-navigation.html %}
+  {% endif %}
+
   <div class="post-content">
     {{ content }}
   </div>

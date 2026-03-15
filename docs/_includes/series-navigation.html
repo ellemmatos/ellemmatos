@@ -1,0 +1,20 @@
+{% assign series_posts = site.posts | where: "series", page.series | sort: "episode" %}
+
+{% if series_posts.size > 1 %}
+<div class="series-navigation">
+  <h3>Series: {{ page.series | replace: "-", " " | capitalize }}</h3>
+  <ul>
+    {% for post in series_posts %}
+    <li>
+      {% if post.url == page.url %}
+      <strong>Episode {{ post.episode }} &mdash; {{ post.title }}</strong>
+      {% else %}
+      <a href="{{ post.url | relative_url }}">
+        Episode {{ post.episode }} &mdash; {{ post.title }}
+      </a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
