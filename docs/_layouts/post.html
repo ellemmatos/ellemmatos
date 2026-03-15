@@ -16,6 +16,7 @@ layout: default
     <p class="post-topics">
       Topics:
       {% for category in page.categories %}
+        {% unless category == "ellemmatos" or category == "blog" %}
         {% assign topic_slug = category %}
         {% if category == "ai" %}
           {% assign topic_slug = "ai-engineering" %}
@@ -27,6 +28,7 @@ layout: default
           {% assign topic_slug = "developer-workflow" %}
         {% endif %}
         <a href="/ellemmatos/topics/{{ topic_slug }}/" class="topic-link">{{ category }}</a>{% unless forloop.last %} &middot; {% endunless %}
+        {% endunless %}
       {% endfor %}
     </p>
     {% endif %}
