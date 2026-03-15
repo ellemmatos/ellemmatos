@@ -3,8 +3,6 @@ layout: home
 title: Ellem Matos
 ---
 
-<link rel="stylesheet" href="/ellemmatos/assets/css/style.css">
-
 <div class="container">
   <div class="site-menu">
     <button id="menu-button">&#9776;</button>
@@ -16,9 +14,7 @@ title: Ellem Matos
     </div>
   </div>
   <div class="hero">
-    <div class="avatar">
-      <img src="/ellemmatos/assets/images/avatar.png" alt="Ellem Matos">
-    </div>
+    <div class="avatar-circle">EM</div>
     <div class="hero-title">
       Ellem Matos
     </div>

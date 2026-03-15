@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    <link rel="stylesheet" href="/ellemmatos/assets/css/style.css">
+  </head>
+  <body class="{% if page.layout == 'home' %}home{% endif %}">
+    <header class="brand-header">
+      <a href="/ellemmatos/" class="nav-avatar">EM</a>
+      <nav class="brand-nav">
+        <a href="/ellemmatos/" class="brand-link">Blog</a>
+      </nav>
+    </header>
+
+    <main class="page-content" aria-label="Content">
+      {{ content }}
+    </main>
+  </body>
+</html>
