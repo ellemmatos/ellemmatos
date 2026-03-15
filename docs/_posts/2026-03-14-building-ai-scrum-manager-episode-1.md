@@ -2,7 +2,18 @@
 layout: post
 title: "Building AI Scrum Manager — Episode 1"
 date: 2026-03-14 14:07:15
-categories: development ai startup
+topic: ai-engineering
+project: ai-scrum-manager
+series: building-ai-scrum-manager
+episode: 1
+summary: Building the first version of an AI-powered Scrum project manager.
+tags:
+  - ai
+  - scrum
+  - automation
+  - project-management
+categories:
+  - ai
 ---
 ## AI Scrum Manager keeps improving delivery orchestration
 

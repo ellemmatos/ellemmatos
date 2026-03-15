@@ -45,3 +45,16 @@ Topics are now used by:
 
 This prepares the blog for modular rendering and future integration with
 `ai-content-factory`.
+
+## Post Metadata
+
+Posts can now define richer editorial metadata in frontmatter:
+- `topic`
+- `project`
+- `series`
+- `episode`
+- `summary`
+- `tags`
+
+These fields are optional and extend the basic `layout`, `title`, `date`, and
+`categories` structure without breaking older posts.
