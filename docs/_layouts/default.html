@@ -22,7 +22,24 @@
     <link rel="stylesheet" href="/ellemmatos/assets/css/style.css">
   </head>
   <body class="{% if page.layout == 'home' %}home{% endif %}">
-    {% include header.html %}
+    <header class="brand-header">
+      <div class="brand-left">
+        <a href="/ellemmatos/" class="nav-avatar">EM</a>
+      </div>
+
+      <nav class="brand-nav">
+        {% for path in site.header_pages %}
+          {% assign nav_page = site.pages | where: "path", path | first %}
+          {% if nav_page %}
+          <a href="{{ nav_page.url | relative_url }}" class="brand-link{% if page.url == nav_page.url %} active{% endif %}">{{ nav_page.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+
+      <div class="brand-right">
+        <a href="/ellemmatos/" class="brand-link">Blog</a>
+      </div>
+    </header>
 
     <main class="page-content" aria-label="Content">
       {{ content }}
