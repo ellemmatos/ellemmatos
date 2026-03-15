@@ -21,6 +21,13 @@
   text-decoration: underline;
 }
 
+.brand-nav a.active {
+  color: #015C91;
+  font-weight: 600;
+  border-bottom: 2px solid #015C91;
+  padding-bottom: 3px;
+}
+
 .hero {
   text-align: center;
   margin-top: 80px;
