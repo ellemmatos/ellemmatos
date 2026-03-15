@@ -39,14 +39,14 @@ title: Ellem Matos
 
   {% include featured-project.html %}
 
-  <div class="topics-section">
+  <section class="topics">
     <h2>Topics</h2>
     <div class="topics-grid">
       {% for topic in site.data.topics.topics %}
       {% include topic-card.html topic=topic %}
       {% endfor %}
     </div>
-  </div>
+  </section>
 
   <section class="latest-posts">
     <h2>Latest Posts</h2>
