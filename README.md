@@ -58,3 +58,16 @@ Posts can now define richer editorial metadata in frontmatter:
 
 These fields are optional and extend the basic `layout`, `title`, `date`, and
 `categories` structure without breaking older posts.
+
+## SEO & Distribution
+
+The blog now includes a basic SEO and distribution layer for public sharing.
+
+- Open Graph metadata for rich previews on LinkedIn and other platforms
+- Twitter Card metadata for social sharing
+- RSS feed generation via `jekyll-feed`
+- Sitemap generation via `jekyll-sitemap`
+
+With the current configuration, GitHub Pages should expose:
+- `/feed.xml`
+- `/sitemap.xml`
