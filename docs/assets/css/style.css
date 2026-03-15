@@ -269,6 +269,41 @@ section {
   font-weight: 500;
 }
 
+/* LATEST POSTS */
+
+.latest-posts {
+  margin-top: 3rem;
+}
+
+.latest-posts-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.latest-post-item {
+  padding: 1rem 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.latest-post-title {
+  margin-bottom: 0.3rem;
+}
+
+.latest-post-title a {
+  text-decoration: none;
+}
+
+.latest-post-summary {
+  color: #4b5563;
+  margin-bottom: 0.2rem;
+}
+
+.latest-post-meta {
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
 .blog-post {
   max-width: 720px;
   margin: 80px auto;

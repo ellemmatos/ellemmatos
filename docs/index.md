@@ -34,11 +34,27 @@ title: Ellem Matos
     </div>
   </div>
 
-  <div class="posts-section">
+  <section class="latest-posts">
+    <h2>Latest Posts</h2>
 
-## Latest Posts
+    <ul class="latest-posts-list">
+      {% for post in site.posts limit:5 %}
+      <li class="latest-post-item">
+        <h3 class="latest-post-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
 
-  </div>
+        <p class="latest-post-summary">
+          {{ post.summary }}
+        </p>
+
+        <p class="latest-post-meta">
+          {{ post.date | date: "%B %d, %Y" }}
+        </p>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
 </div>
 
 <script src="/ellemmatos/assets/js/menu.js"></script>
