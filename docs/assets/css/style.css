@@ -240,3 +240,18 @@
 .post-pagination a:hover {
   text-decoration: underline;
 }
+
+.post-topics {
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 30px;
+}
+
+.topic-link {
+  text-decoration: none;
+  color: #0b1b34;
+}
+
+.topic-link:hover {
+  text-decoration: underline;
+}

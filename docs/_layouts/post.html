@@ -12,6 +12,14 @@ layout: default
     <p class="post-meta">
       {{ page.date | date: "%B %d, %Y" }}
     </p>
+    {% if page.categories %}
+    <p class="post-topics">
+      Topics:
+      {% for category in page.categories %}
+        <a href="/ellemmatos/topics/{{ category }}/" class="topic-link">{{ category }}</a>{% unless forloop.last %} &middot; {% endunless %}
+      {% endfor %}
+    </p>
+    {% endif %}
   </header>
 
   <div class="post-content">
