@@ -225,14 +225,14 @@ section {
 }
 
 .topic-card {
-  padding: 1.2rem 1.4rem;
+  background: white;
   border: 1px solid #e5e7eb;
-  border-radius: 8px;
+  border-radius: 10px;
+  padding: 1.2rem;
   text-decoration: none;
   color: #111;
-  background: white;
   font-weight: 500;
-  transition: all 0.2s ease;
+  transition: all 0.15s ease;
 }
 
 .topic-card:hover {
@@ -322,12 +322,20 @@ article p {
   border-top: 1px solid #eee;
 }
 
+.editorial-block {
+  margin: 2rem 0;
+  padding: 1.2rem 1.4rem;
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+}
+
 .series-navigation {
   margin: 2rem 0;
-  padding: 1.2rem 1.5rem;
-  border-left: 4px solid #4f46e5;
+  padding: 1.2rem 1.4rem;
   background: #f9fafb;
-  border-radius: 6px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
 }
 
 .series-navigation h3 {
@@ -350,19 +358,20 @@ article p {
 }
 
 .series-navigation a {
-  text-decoration: none;
+  color: #4f46e5;
 }
 
 .series-navigation strong {
   color: #111827;
+  font-weight: 600;
 }
 
 .project-context {
-  margin: 1.5rem 0 2rem 0;
-  padding: 1rem 1.3rem;
+  margin: 2rem 0;
+  padding: 1.2rem 1.4rem;
   background: #f9fafb;
-  border-left: 4px solid #10b981;
-  border-radius: 6px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
 }
 
 .project-context p {
@@ -371,7 +380,7 @@ article p {
 }
 
 .project-context a {
-  text-decoration: none;
+  font-weight: 500;
 }
 
 .project-context strong {
@@ -379,10 +388,15 @@ article p {
 }
 
 .project-posts {
-  margin-top: 1.5rem;
+  margin: 2rem 0;
+  padding: 1.2rem 1.4rem;
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
 }
 
 .project-posts h3 {
+  margin-top: 0;
   margin-bottom: 0.8rem;
   font-size: 1.1rem;
 }
@@ -390,11 +404,14 @@ article p {
 .project-post-list {
   list-style: none;
   padding-left: 0;
-  margin: 0;
+  margin: 0.8rem 0 0;
 }
 
 .project-post-item {
-  padding: 0.6rem 0;
+  padding: 0.5rem 0;
+}
+
+.project-post-item:not(:last-child) {
   border-bottom: 1px solid #e5e7eb;
 }
 
@@ -552,7 +569,11 @@ article p {
   }
 
   .project-context {
-    padding: 0.95rem 1rem;
+    padding: 1rem 1.1rem;
+  }
+
+  .project-posts {
+    padding: 1rem 1.1rem;
   }
 
   .pagination {
