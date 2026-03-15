@@ -143,6 +143,12 @@ p {
   position: absolute;
   top: 20px;
   right: 20px;
+  z-index: 20;
+}
+
+#menu-button {
+  position: relative;
+  z-index: 20;
 }
 
 #menu-button {
@@ -159,13 +165,14 @@ p {
 .menu-panel {
   display: none;
   position: absolute;
-  right: 0;
+  right: 12px;
   top: 55px;
   background: white;
   border: 1px solid #eee;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
   padding: 12px;
   border-radius: 8px;
+  max-width: calc(100vw - 24px);
 }
 
 .menu-panel a {
@@ -404,7 +411,7 @@ p {
   }
 
   .hero {
-    margin-top: 40px;
+    margin-top: 50px;
   }
 
   .hero h1 {
@@ -430,6 +437,15 @@ p {
   .pagination a,
   .pagination span {
     font-size: 14px;
+  }
+
+  .menu-panel {
+    padding: 14px;
+  }
+
+  .menu-panel a {
+    display: block;
+    padding: 6px 0;
   }
 }
 
