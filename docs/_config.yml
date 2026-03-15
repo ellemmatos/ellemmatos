@@ -8,6 +8,8 @@ author:
 social_image: /assets/images/avatar.png
 theme: minima
 markdown: kramdown
+header_pages:
+  - projects/index.md
 plugins:
   - jekyll-feed
   - jekyll-sitemap
