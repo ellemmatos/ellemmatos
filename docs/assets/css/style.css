@@ -67,3 +67,43 @@
 .page-content {
   padding-top: 0;
 }
+
+.site-menu {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+#menu-button {
+  background: #0b1b34;
+  color: white;
+  border: none;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.menu-panel {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: 55px;
+  background: white;
+  border: 1px solid #eee;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.menu-panel a {
+  display: block;
+  padding: 6px 10px;
+  text-decoration: none;
+  color: #111;
+}
+
+.menu-panel.open {
+  display: block;
+}

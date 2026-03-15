@@ -6,6 +6,15 @@ title: Ellem Matos
 <link rel="stylesheet" href="/ellemmatos/assets/css/style.css">
 
 <div class="container">
+  <div class="site-menu">
+    <button id="menu-button">&#9776;</button>
+    <div id="menu-panel" class="menu-panel">
+      <a href="/ellemmatos/">Home</a>
+      <a href="https://github.com/ellemmatos">GitHub</a>
+      <a href="https://github.com/ellemmatos/ellemmatos/blob/main/README.md">README</a>
+      <a href="https://linkedin.com">LinkedIn</a>
+    </div>
+  </div>
   <div class="hero">
     <div class="avatar">
       <img src="/ellemmatos/assets/images/avatar.png" alt="Ellem Matos">
@@ -24,3 +33,5 @@ title: Ellem Matos
 
   </div>
 </div>
+
+<script src="/ellemmatos/assets/js/menu.js"></script>
