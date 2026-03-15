@@ -1,0 +1,20 @@
+topics:
+  - id: ai-engineering
+    title: AI Engineering
+    description: Posts about building AI systems, tools, and infrastructure.
+    path: /topics/ai-engineering/
+
+  - id: startup-building
+    title: Startup Building
+    description: Notes on building startups in public.
+    path: /topics/startup-building/
+
+  - id: architecture
+    title: Architecture
+    description: Software architecture decisions and patterns.
+    path: /topics/architecture/
+
+  - id: developer-workflow
+    title: Developer Workflow
+    description: Developer productivity, tooling and workflows.
+    path: /topics/developer-workflow/

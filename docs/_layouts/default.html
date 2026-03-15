@@ -8,60 +8,7 @@
     <link rel="stylesheet" href="/ellemmatos/assets/css/style.css">
   </head>
   <body class="{% if page.layout == 'home' %}home{% endif %}">
-    {% assign active_topic = "" %}
-
-    {% if page.topic %}
-    {% assign active_topic = page.topic %}
-    {% endif %}
-
-    {% if active_topic == "" %}
-      {% if page.url contains "/topics/ai-engineering" %}
-      {% assign active_topic = "ai-engineering" %}
-      {% endif %}
-
-      {% if page.url contains "/topics/architecture" %}
-      {% assign active_topic = "architecture" %}
-      {% endif %}
-
-      {% if page.url contains "/topics/developer-workflow" %}
-      {% assign active_topic = "developer-workflow" %}
-      {% endif %}
-
-      {% if page.url contains "/topics/startup-building" %}
-      {% assign active_topic = "startup-building" %}
-      {% endif %}
-    {% endif %}
-
-    {% if active_topic == "" and page.layout == "post" %}
-      {% if page.categories contains "ai" %}
-      {% assign active_topic = "ai-engineering" %}
-      {% endif %}
-
-      {% if page.categories contains "startup" %}
-      {% assign active_topic = "startup-building" %}
-      {% endif %}
-
-      {% if page.categories contains "development" %}
-      {% assign active_topic = "developer-workflow" %}
-      {% endif %}
-    {% endif %}
-
-    <header class="brand-header">
-      <div class="brand-left">
-        <a href="/ellemmatos/" class="nav-avatar">EM</a>
-      </div>
-
-      <nav class="brand-nav">
-        <a href="/ellemmatos/topics/ai-engineering/" class="brand-link {% if active_topic == 'ai-engineering' %}active{% endif %}">AI Engineering</a>
-        <a href="/ellemmatos/topics/architecture/" class="brand-link {% if active_topic == 'architecture' %}active{% endif %}">Architecture</a>
-        <a href="/ellemmatos/topics/developer-workflow/" class="brand-link {% if active_topic == 'developer-workflow' %}active{% endif %}">Developer Workflow</a>
-        <a href="/ellemmatos/topics/startup-building/" class="brand-link {% if active_topic == 'startup-building' %}active{% endif %}">Startup Building</a>
-      </nav>
-
-      <div class="brand-right">
-        <a href="/ellemmatos/" class="brand-link">Blog</a>
-      </div>
-    </header>
+    {% include header.html %}
 
     <main class="page-content" aria-label="Content">
       {{ content }}

@@ -34,3 +34,9 @@ https://linkedin.com/in/ellemmatos
 ---
 
 ⭐ Always learning. Always improving systems and teams.
+## Topic Registry
+
+Blog topics are now centrally defined in `docs/_data/topics.yml`.
+This registry is the source of truth for navigation labels and topic paths,
+and prepares the blog for modular rendering and future integration with
+`ai-content-factory`.
