@@ -292,3 +292,7 @@
   font-weight: 700;
   text-decoration: none;
 }
+
+.home .brand-header {
+  display: none;
+}
