@@ -12,11 +12,18 @@ layout: default
     <p class="post-meta">
       {{ page.date | date: "%B %d, %Y" }}
     </p>
-    {% if page.categories %}
+    {% assign valid_topics = "" | split: "" %}
+
+    {% for category in page.categories %}
+      {% unless category == "ellemmatos" or category == "blog" %}
+        {% assign valid_topics = valid_topics | push: category %}
+      {% endunless %}
+    {% endfor %}
+
+    {% if valid_topics.size > 0 %}
     <p class="post-topics">
       Topics:
-      {% for category in page.categories %}
-        {% unless category == "ellemmatos" or category == "blog" %}
+      {% for category in valid_topics %}
         {% assign topic_slug = category %}
         {% if category == "ai" %}
           {% assign topic_slug = "ai-engineering" %}
@@ -28,7 +35,6 @@ layout: default
           {% assign topic_slug = "developer-workflow" %}
         {% endif %}
         <a href="/ellemmatos/topics/{{ topic_slug }}/" class="topic-link">{{ category }}</a>{% unless forloop.last %} &middot; {% endunless %}
-        {% endunless %}
       {% endfor %}
     </p>
     {% endif %}
