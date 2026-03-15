@@ -2,6 +2,10 @@ title: Ellem Matos
 description: Building AI systems and startups in public.
 url: https://ellemmatos.github.io
 baseurl: /ellemmatos
+author:
+  name: Ellem Matos
+  twitter: ellem
+social_image: /assets/images/avatar.png
 theme: minima
 markdown: kramdown
 plugins:

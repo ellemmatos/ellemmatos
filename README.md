@@ -71,3 +71,12 @@ The blog now includes a basic SEO and distribution layer for public sharing.
 With the current configuration, GitHub Pages should expose:
 - `/feed.xml`
 - `/sitemap.xml`
+
+## Social Sharing Metadata
+
+Posts can also define social sharing metadata fields:
+- `summary`
+- `image`
+
+`summary` is used for description metadata and rich previews.
+`image` can override the default social image for a specific post.

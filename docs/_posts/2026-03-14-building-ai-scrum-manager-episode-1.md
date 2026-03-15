@@ -7,6 +7,7 @@ project: ai-scrum-manager
 series: building-ai-scrum-manager
 episode: 1
 summary: Building the first version of an AI-powered Scrum project manager.
+image: /assets/images/avatar.png
 tags:
   - ai
   - scrum
