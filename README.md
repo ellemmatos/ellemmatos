@@ -101,3 +101,12 @@ Project pages aggregate posts that share the same `project` metadata field.
 When a post defines `project`, the post metadata automatically links to the
 matching project page when the project exists in the registry.
 Project pages also surface topic and series context derived from related posts.
+
+## Post Template
+
+The official automated publishing template lives at
+`docs/_templates/post-template.md`.
+
+This template is used by:
+- `ai-blog-engine`
+- `ai-content-factory`
