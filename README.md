@@ -97,3 +97,6 @@ Project pages aggregate posts that share the same `project` metadata field.
 - Project registry: `docs/_data/projects.yml`
 - Project pages: `docs/projects/`
 - Post list include: `docs/_includes/project-post-list.html`
+
+When a post defines `project`, the post metadata automatically links to the
+matching project page when the project exists in the registry.

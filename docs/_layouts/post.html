@@ -21,6 +21,11 @@ layout: default
     {% assign reading_time = 1 %}
   {% endif %}
 
+  {% assign project_data = nil %}
+  {% if page.project %}
+    {% assign project_data = site.data.projects.projects | where: "id", page.project | first %}
+  {% endif %}
+
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
@@ -35,7 +40,12 @@ layout: default
       {{ topic_title }}
       {% endif %}
       {% if page.project %}
-      {% if topic_title != "" %} &middot; {% endif %}Project: {{ page.project }}
+      {% if topic_title != "" %} &middot; {% endif %}Project:
+      {% if project_data %}
+      <a href="/ellemmatos/projects/{{ project_data.id }}/">{{ project_data.name }}</a>
+      {% else %}
+      {{ page.project }}
+      {% endif %}
       {% endif %}
       {% if page.series %}
       {% if topic_title != "" or page.project %} &middot; {% endif %}Series: {{ page.series | replace: "-", " " }}{% if page.episode %} (Episode {{ page.episode }}){% endif %}
