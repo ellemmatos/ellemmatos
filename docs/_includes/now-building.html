@@ -2,7 +2,8 @@
   <h2>Now Building</h2>
 
   <ul class="now-building-list">
-    {% for project in site.data.projects.projects limit:3 %}
+    {% assign active_projects = site.data.projects.projects | where: "status", "active" %}
+    {% for project in active_projects limit:3 %}
     <li>
       <strong>
         <a href="/projects/{{ project.id }}/">
