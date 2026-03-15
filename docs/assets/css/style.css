@@ -2,23 +2,51 @@
   display: none;
 }
 
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Helvetica, Arial, sans-serif;
+  line-height: 1.65;
+  color: #222;
+}
+
+h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-weight: 600;
+  margin-top: 40px;
+}
+
+p {
+  margin-bottom: 18px;
+}
+
 .brand-header {
   max-width: 960px;
-  margin: 20px auto 0 auto;
-  padding: 0 20px;
+  margin: 0 auto;
+  padding: 14px 28px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  border-bottom: 1px solid #eee;
 }
 
 .brand-link {
   text-decoration: none;
-  color: #111;
-  font-size: 14px;
+  color: #333;
+  font-size: 15px;
+  font-weight: 500;
 }
 
 .brand-link:hover {
-  text-decoration: underline;
+  color: #015C91;
+}
+
+.brand-nav {
+  display: flex;
+  gap: 28px;
+  font-size: 15px;
 }
 
 .brand-nav a.active {
@@ -30,31 +58,33 @@
 
 .hero {
   text-align: center;
-  margin-top: 80px;
+  margin-top: 60px;
 }
 
 .avatar-circle {
-  width: 120px;
-  height: 120px;
+  width: 90px;
+  height: 90px;
   border-radius: 50%;
   background: #015C91;
-  color: #ffffff;
+  color: white;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 42px;
+  font-size: 32px;
   font-weight: 700;
   margin: 0 auto 20px auto;
 }
 
 .hero-title {
-  font-size: 32px;
-  font-weight: 600;
+  font-size: 34px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 8px;
 }
 
 .hero-subtitle {
   color: #666;
-  margin-top: 10px;
+  margin-top: 0;
 }
 
 .posts-section {
@@ -65,6 +95,12 @@
   max-width: 720px;
   margin: 0 auto;
   padding: 0 20px;
+}
+
+.post-container,
+.page-container {
+  max-width: 720px;
+  margin: 0 auto;
 }
 
 .posts-section ul {
@@ -144,7 +180,7 @@
 }
 
 .topics-grid {
-  margin-top: 25px;
+  margin-top: 50px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 16px;
@@ -154,18 +190,20 @@
 }
 
 .topic-card {
-  padding: 14px;
+  padding: 18px;
   border: 1px solid #eee;
-  border-radius: 10px;
+  border-radius: 8px;
   text-decoration: none;
   color: #111;
   background: white;
   font-weight: 500;
+  transition: all 0.15s ease;
 }
 
 .topic-card:hover {
-  border-color: #0b1b34;
+  border-color: #015C91;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+  transform: translateY(-2px);
 }
 
 .blog-post {
@@ -182,7 +220,12 @@
 .post-meta {
   font-size: 14px;
   color: #777;
-  margin-bottom: 40px;
+  margin-bottom: 18px;
+}
+
+.post-meta a {
+  color: #015C91;
+  text-decoration: none;
 }
 
 .post-content p {
@@ -287,12 +330,12 @@
 }
 
 .nav-avatar {
-  width: 32px;
-  height: 32px;
+  width: 34px;
+  height: 34px;
   border-radius: 50%;
   background: #015C91;
   color: white;
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
   font-size: 14px;
