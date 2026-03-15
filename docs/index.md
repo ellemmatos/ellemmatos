@@ -30,7 +30,7 @@ title: Ellem Matos
   <div class="topics-section">
     <h2>Topics</h2>
     <div class="topics-grid">
-      <a class="topic-card" href="/ellemmatos/">
+      <a class="topic-card" href="/ellemmatos/topics/ai-engineering/">
         AI Engineering
       </a>
       <a class="topic-card" href="/ellemmatos/">
