@@ -169,3 +169,39 @@
   padding: 16px;
   overflow-x: auto;
 }
+
+.post-content ul,
+.post-content ol {
+  margin-bottom: 20px;
+  padding-left: 24px;
+}
+
+.post-content li {
+  margin-bottom: 6px;
+}
+
+.post-content blockquote {
+  border-left: 4px solid #ddd;
+  padding-left: 16px;
+  margin: 24px 0;
+  color: #555;
+  font-style: italic;
+}
+
+.post-content a {
+  color: #0b1b34;
+  text-decoration: underline;
+}
+
+.post-content code {
+  background: #f6f8fa;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 90%;
+}
+
+.post-content hr {
+  margin: 40px 0;
+  border: none;
+  border-top: 1px solid #eee;
+}
