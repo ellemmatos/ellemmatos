@@ -221,3 +221,22 @@
 .post-nav a:hover {
   text-decoration: underline;
 }
+
+.post-pagination {
+  max-width: 720px;
+  margin: 60px auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.post-pagination a {
+  text-decoration: none;
+  color: #0b1b34;
+  font-size: 14px;
+  max-width: 45%;
+}
+
+.post-pagination a:hover {
+  text-decoration: underline;
+}
