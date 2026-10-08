@@ -1,8 +1,8 @@
 # Hi, I'm Ellem 👋
 
-**AI Adoption & Agile Delivery Lead** — I help engineering teams work AI-first, from planning to code.
+**AI Adoption & Agile Delivery Lead** — I help remote, distributed engineering teams work AI-first, from planning to code.
 
-📍 Portugal · 🇵🇹 🇧🇷 Portuguese (native) · 🇬🇧 English (professional)
+📍 Portugal · 🌐 Open to 100% remote roles · 🇵🇹 🇧🇷 Portuguese (native) · 🇬🇧 English (professional)
 
 ## About me
 
@@ -11,7 +11,8 @@ I started in electronics, led technical teams in the Brazilian Army, spent years
 - 🚀 Introduced Scrum from scratch and scaled it to **22+ teams**
 - 🧭 Mentored Scrum Masters and Team Leads
 - 🤖 Coached **~15 people** (developers, Scrum Masters and Team Leads) to adopt AI in their daily work
-- 🌍 Used AI to run meetings for distributed, multilingual teams: agendas, transcription and clear summaries
+- 🌍 Led remote teams across several regions and time zones, most working in English as a second language
+- 🗣️ Used AI to run remote meetings for multilingual teams: agendas, transcription and clear written summaries
 
 ## 🤖 How I use AI with teams
 
@@ -37,7 +38,7 @@ _Case studies coming soon._
 
 **AI in delivery:** AI adoption & coaching · AI-assisted meetings · Jira automation · AI-supported sprint planning
 
-**Agile & leadership:** Scrum · scaled agile · Scrum Master mentoring · agile governance
+**Agile & leadership:** Remote & distributed team leadership · async communication · Scrum · scaled agile · Scrum Master mentoring · agile governance
 
 **Technical background:** .NET · ASP.NET · SharePoint · PowerShell · SQL · Azure · Power Platform · Jira · Confluence
 
