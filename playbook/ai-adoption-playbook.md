@@ -4,6 +4,8 @@
 
 By [Ellem Matos](https://www.linkedin.com/in/ellemmatos/) · AI Adoption & Agile Delivery Lead
 
+🇵🇹 [Versão em português](ai-adoption-playbook-pt.md)
+
 ---
 
 ## Why this playbook exists
