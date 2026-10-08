@@ -26,6 +26,8 @@ I started in electronics, led technical teams in the Brazilian Army, spent years
 
 ## 🛠 Projects
 
+📘 **[AI Adoption Playbook for Engineering Teams](playbook/ai-adoption-playbook.md)** — my practical method for bringing AI into how remote teams plan, meet, build and deliver.
+
 Projects I build to explore how AI changes the way teams plan and deliver:
 
 - **AI Scrum Manager** — an AI-assisted Scrum project manager
