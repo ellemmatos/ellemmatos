@@ -10,7 +10,7 @@ title: I Have a Dream AI
       <a href="/ellemmatos/">Home</a>
       <a href="https://github.com/ellemmatos" target="_blank" rel="noopener">GitHub</a>
       <a href="https://github.com/ellemmatos/ellemmatos/blob/main/README.md" target="_blank" rel="noopener">README</a>
-      <a href="https://linkedin.com" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/ellemmatos/" target="_blank" rel="noopener">LinkedIn</a>
     </div>
   </div>
   <div class="hero">
