@@ -1,126 +1,55 @@
-# Hello, I'm Ellem 👋
+# Hi, I'm Ellem 👋
 
-Agile Coach and Software Architect passionate about building scalable systems and helping teams deliver value.
+**AI Adoption & Agile Delivery Lead** — I help remote, distributed engineering teams work AI-first, from planning to code.
 
-## 🚀 About Me
+📍 Portugal · 🌐 Open to 100% remote roles · 🇵🇹 🇧🇷 Portuguese (native) · 🇬🇧 English (professional)
 
-- Agile Coach leading transformation across multiple teams
-- Background in software development and system architecture
-- Focused on .NET, Cloud and distributed systems
-- Passionate about high-performing engineering teams
+## About me
 
-## 🛠 Tech Stack
+I started in electronics, led technical teams in the Brazilian Army, spent years as a .NET and SharePoint developer, and today I work as Lead Scrum Master & Project Manager at Capgemini.
 
-- .NET
-- Azure
-- Microservices
-- Docker
-- Kubernetes
-- GitHub Actions
-- Agile / Scrum
+- 🚀 Introduced Scrum from scratch and scaled it to **22+ teams**
+- 🧭 Mentored Scrum Masters and Team Leads
+- 🤖 Coached **~15 people** (developers, Scrum Masters and Team Leads) to adopt AI in their daily work
+- 🌍 Led remote teams across several regions and time zones, most working in English as a second language
+- 🗣️ Used AI to run remote meetings for multilingual teams: agendas, transcription and clear written summaries
 
-## 📂 Current Focus
+## 🤖 How I use AI with teams
 
-- Agile transformation
-- Software architecture
-- Engineering productivity
-- AI tools for development teams
+| Area | What AI does |
+| --- | --- |
+| Meetings | Drafts the agenda, transcribes the meeting and writes a clear, human summary |
+| Planning | Creates and automates Jira tasks and supports sprint planning |
+| Building | Prototypes, implementation support and AI-assisted code review |
+| Quality | AI-assisted automated testing |
+| Knowledge | Documents existing codebases (5+ codebases in different technologies) |
 
-## 🌎 Connect with me
+## 🛠 Projects
 
-LinkedIn  
-https://linkedin.com/in/ellemmatos
+📘 **[AI Adoption Playbook for Engineering Teams](playbook/ai-adoption-playbook.md)** — my practical method for bringing AI into how remote teams plan, meet, build and deliver.
+
+Projects I build to explore how AI changes the way teams plan and deliver:
+
+- **AI Scrum Manager** — an AI-assisted Scrum project manager
+- **AI Content Factory** — an automated pipeline for technical content
+- **I Have a Dream AI** — my blog about building AI systems in public: [ellemmatos.github.io/ellemmatos](https://ellemmatos.github.io/ellemmatos/)
+
+_Case studies coming soon._
+
+## 🧰 Skills
+
+**AI in delivery:** AI adoption & coaching · AI-assisted meetings · Jira automation · AI-supported sprint planning
+
+**Agile & leadership:** Remote & distributed team leadership · async communication · Scrum · scaled agile · Scrum Master mentoring · agile governance
+
+**Technical background:** .NET · ASP.NET · SharePoint · PowerShell · SQL · Azure · Power Platform · Jira · Confluence
+
+**Certifications:** PSM I · ITIL® 4 Foundation · Azure Fundamentals · Power Platform Fundamentals · Microsoft 365 Fundamentals
+
+## 🌎 Connect
+
+[LinkedIn](https://www.linkedin.com/in/ellemmatos/) · [Blog](https://ellemmatos.github.io/ellemmatos/)
 
 ---
 
-⭐ Always learning. Always improving systems and teams.
-## Topic Registry
-
-Blog topics are now centrally defined in `docs/_data/topics.yml`.
-This registry is the source of truth for navigation labels and topic paths.
-
-Topics are now used by:
-- header navigation
-- homepage topic cards
-
-This prepares the blog for modular rendering and future integration with
-`ai-content-factory`.
-
-## Post Metadata
-
-Posts can now define richer editorial metadata in frontmatter:
-- `topic`
-- `project`
-- `series`
-- `episode`
-- `summary`
-- `tags`
-
-These fields are optional and extend the basic `layout`, `title`, `date`, and
-`categories` structure without breaking older posts.
-
-## Post Series
-
-Posts can define series navigation using:
-- `series`
-- `episode`
-
-When multiple posts share the same `series`, the post layout can render a
-series navigation block with all episodes ordered by `episode`.
-
-## SEO & Distribution
-
-The blog now includes a basic SEO and distribution layer for public sharing.
-
-- Open Graph metadata for rich previews on LinkedIn and other platforms
-- Twitter Card metadata for social sharing
-- RSS feed generation via `jekyll-feed`
-- Sitemap generation via `jekyll-sitemap`
-
-With the current configuration, GitHub Pages should expose:
-- `/feed.xml`
-- `/sitemap.xml`
-
-## Social Sharing Metadata
-
-Posts can also define social sharing metadata fields:
-- `summary`
-- `image`
-
-`summary` is used for description metadata and rich previews.
-`image` can override the default social image for a specific post.
-
-## Project Pages
-
-Project pages aggregate posts that share the same `project` metadata field.
-
-- Project registry: `docs/_data/projects.yml`
-- Project pages: `docs/projects/`
-- Post list include: `docs/_includes/project-post-list.html`
-
-When a post defines `project`, the post metadata automatically links to the
-matching project page when the project exists in the registry.
-Project pages also surface topic and series context derived from related posts.
-
-## Includes
-
-`project-card.html`  
-Reusable card used in the projects index.
-
-`project-post-list.html`  
-Renders posts belonging to a project page, including project context.
-
-`series-navigation.html`  
-Renders episode navigation for posts that belong to a series.
-
-`topic-card.html`  
-Reusable card used in the homepage topics grid.
-
-## Post Template
-
-The official automated publishing template lives at
-`docs/_templates/post-template.md`.
-
-This template is used by:
-- `ai-blog-engine`
-- `ai-content-factory`
+<sub>Technical notes for the blog in this repository: [BLOG.md](BLOG.md)</sub>

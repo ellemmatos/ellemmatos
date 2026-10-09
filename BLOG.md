@@ -1,0 +1,94 @@
+# Blog — Technical Notes
+
+Technical documentation for the Jekyll blog published from `docs/` (GitHub Pages).
+
+## Topic Registry
+
+Blog topics are now centrally defined in `docs/_data/topics.yml`.
+This registry is the source of truth for navigation labels and topic paths.
+
+Topics are now used by:
+- header navigation
+- homepage topic cards
+
+This prepares the blog for modular rendering and future integration with
+`ai-content-factory`.
+
+## Post Metadata
+
+Posts can now define richer editorial metadata in frontmatter:
+- `topic`
+- `project`
+- `series`
+- `episode`
+- `summary`
+- `tags`
+
+These fields are optional and extend the basic `layout`, `title`, `date`, and
+`categories` structure without breaking older posts.
+
+## Post Series
+
+Posts can define series navigation using:
+- `series`
+- `episode`
+
+When multiple posts share the same `series`, the post layout can render a
+series navigation block with all episodes ordered by `episode`.
+
+## SEO & Distribution
+
+The blog now includes a basic SEO and distribution layer for public sharing.
+
+- Open Graph metadata for rich previews on LinkedIn and other platforms
+- Twitter Card metadata for social sharing
+- RSS feed generation via `jekyll-feed`
+- Sitemap generation via `jekyll-sitemap`
+
+With the current configuration, GitHub Pages should expose:
+- `/feed.xml`
+- `/sitemap.xml`
+
+## Social Sharing Metadata
+
+Posts can also define social sharing metadata fields:
+- `summary`
+- `image`
+
+`summary` is used for description metadata and rich previews.
+`image` can override the default social image for a specific post.
+
+## Project Pages
+
+Project pages aggregate posts that share the same `project` metadata field.
+
+- Project registry: `docs/_data/projects.yml`
+- Project pages: `docs/projects/`
+- Post list include: `docs/_includes/project-post-list.html`
+
+When a post defines `project`, the post metadata automatically links to the
+matching project page when the project exists in the registry.
+Project pages also surface topic and series context derived from related posts.
+
+## Includes
+
+`project-card.html`  
+Reusable card used in the projects index.
+
+`project-post-list.html`  
+Renders posts belonging to a project page, including project context.
+
+`series-navigation.html`  
+Renders episode navigation for posts that belong to a series.
+
+`topic-card.html`  
+Reusable card used in the homepage topics grid.
+
+## Post Template
+
+The official automated publishing template lives at
+`docs/_templates/post-template.md`.
+
+This template is used by:
+- `ai-blog-engine`
+- `ai-content-factory`
