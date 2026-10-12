@@ -28,7 +28,7 @@ I started in electronics, led technical teams in the Brazilian Army, spent years
 
 📘 **[AI Adoption Playbook for Engineering Teams](playbook/ai-adoption-playbook.md)** — my practical method for bringing AI into how remote teams plan, meet, build and deliver.
 
-🎯 **[Coach de Prompts para Gestores de TI](skills/coach-de-prompts-ti/)** — a Claude skill (in Portuguese) that scores prompts, rewrites them explaining every change, and ships 8 ready-made prompts for engineering managers: sprint planning, 1:1s, feedback, post-mortems, code review, estimates, stakeholder updates and DORA metrics.
+🎯 **[Prompt Advisor for Engineering Managers](skills/prompt-advisor/)** — a Claude skill that scores prompts, rewrites them explaining every change, flags sensitive data, and ships 8 ready-made prompts for engineering managers: sprint planning, 1-on-1s, feedback, post-mortems, code review, estimates, stakeholder updates and DORA metrics.
 
 Projects I build to explore how AI changes the way teams plan and deliver:
 
