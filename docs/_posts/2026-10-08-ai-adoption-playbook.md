@@ -2,7 +2,7 @@
 layout: post
 title: "AI Adoption Playbook for Engineering Teams"
 date: 2026-10-08 10:00:00
-topic: ai-engineering
+topic: ai-delivery
 summary: A practical method for bringing AI into how remote, distributed teams plan, meet, build and deliver, from the first prompt to team-wide autonomy.
 image: /assets/images/avatar.png
 tags:

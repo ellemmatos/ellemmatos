@@ -1,46 +1,42 @@
 # Hi, I'm Ellem 👋
 
-**AI Adoption & Agile Delivery Lead** — I help remote, distributed engineering teams work AI-first, from planning to code.
+**Project Manager for AI-enabled engineering teams.** I lead remote, distributed teams that work AI-first, from planning to code.
 
 📍 Portugal · 🌐 Open to 100% remote roles · 🇵🇹 🇧🇷 Portuguese (native) · 🇬🇧 English (professional)
 
 ## About me
 
-I started in electronics, led technical teams in the Brazilian Army, spent years as a .NET and SharePoint developer, and today I work as Lead Scrum Master & Project Manager at Capgemini.
+I started in electronics, led a technical team in the Brazilian Army, spent years as a .NET and SharePoint developer, and today I lead project delivery at Capgemini (Lead Scrum Master & Project Manager).
 
-- 🚀 Introduced Scrum from scratch and scaled it to **22+ teams**
-- 🧭 Mentored Scrum Masters and Team Leads
-- 🤖 Coached **~15 people** (developers, Scrum Masters and Team Leads) to adopt AI in their daily work
+- 🤖 Coached **~15 people** (developers, Scrum Masters and Team Leads) from their first AI use to working autonomously
+- 📈 Set up a common delivery model from scratch and scaled it to **22+ teams**
 - 🌍 Led remote teams across several regions and time zones, most working in English as a second language
 - 🗣️ Used AI to run remote meetings for multilingual teams: agendas, transcription and clear written summaries
+- 🧭 Grew Scrum Masters and Team Leads into autonomous leaders
 
-## 🤖 How I use AI with teams
+## 🤖 How I run projects with AI
 
 | Area | What AI does |
 | --- | --- |
 | Meetings | Drafts the agenda, transcribes the meeting and writes a clear, human summary |
-| Planning | Creates and automates Jira tasks and supports sprint planning |
+| Planning | Creates and automates Jira tasks and supports planning, estimation and risks |
 | Building | Prototypes, implementation support and AI-assisted code review |
 | Quality | AI-assisted automated testing |
 | Knowledge | Documents existing codebases (5+ codebases in different technologies) |
 
 ## 🛠 Projects
 
-📘 **[AI Adoption Playbook for Engineering Teams](playbook/ai-adoption-playbook.md)** — my practical method for bringing AI into how remote teams plan, meet, build and deliver.
+📘 **[AI Adoption Playbook for Engineering Teams](playbook/ai-adoption-playbook.md)** — my practical method for bringing AI into how remote teams plan, meet, build and deliver. 🇵🇹 [Versão em português](playbook/ai-adoption-playbook-pt.md)
 
-Projects I build to explore how AI changes the way teams plan and deliver:
+⚙️ **AI Content Factory** — an AI pipeline I run every week: it drafts an article and a LinkedIn post, waits for my approval by email, then publishes.
 
-- **AI Scrum Manager** — an AI-assisted Scrum project manager
-- **AI Content Factory** — an automated pipeline for technical content
-- **I Have a Dream AI** — my blog about building AI systems in public: [ellemmatos.github.io/ellemmatos](https://ellemmatos.github.io/ellemmatos/)
-
-_Case studies coming soon._
+✍️ **[Blog](https://ellemmatos.github.io/ellemmatos/)** — one article a week on AI in project delivery, leadership and careers.
 
 ## 🧰 Skills
 
-**AI in delivery:** AI adoption & coaching · AI-assisted meetings · Jira automation · AI-supported sprint planning
+**Project delivery with AI:** AI adoption & coaching · AI-assisted meetings · Jira automation · AI-supported planning · AI guardrails
 
-**Agile & leadership:** Remote & distributed team leadership · async communication · Scrum · scaled agile · Scrum Master mentoring · agile governance
+**Leadership:** Remote & distributed team leadership · async communication · stakeholder management · coaching and mentoring · Agile (Scrum, scaled agile)
 
 **Technical background:** .NET · ASP.NET · SharePoint · PowerShell · SQL · Azure · Power Platform · Jira · Confluence
 
@@ -52,4 +48,4 @@ _Case studies coming soon._
 
 ---
 
-<sub>Technical notes for the blog in this repository: [BLOG.md](BLOG.md)</sub>
+<sub>Technical notes for the blog: [BLOG.md](BLOG.md) · Content log: [content/LOG.md](content/LOG.md)</sub>

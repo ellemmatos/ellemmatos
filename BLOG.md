@@ -7,34 +7,15 @@ Technical documentation for the Jekyll blog published from `docs/` (GitHub Pages
 Blog topics are now centrally defined in `docs/_data/topics.yml`.
 This registry is the source of truth for navigation labels and topic paths.
 
-Topics are now used by:
-- header navigation
-- homepage topic cards
-
-This prepares the blog for modular rendering and future integration with
-`ai-content-factory`.
+Each post sets `topic:` to one of the ids in that file (`ai-delivery`, `ai-news`,
+`leadership`, `career`). Topic pages live in `docs/topics/` and list the posts
+with that topic.
 
 ## Post Metadata
 
-Posts can now define richer editorial metadata in frontmatter:
-- `topic`
-- `project`
-- `series`
-- `episode`
-- `summary`
-- `tags`
-
-These fields are optional and extend the basic `layout`, `title`, `date`, and
-`categories` structure without breaking older posts.
-
-## Post Series
-
-Posts can define series navigation using:
-- `series`
-- `episode`
-
-When multiple posts share the same `series`, the post layout can render a
-series navigation block with all episodes ordered by `episode`.
+Posts define in frontmatter: `layout`, `title`, `date`, `topic`, `summary`,
+`image`, `tags` and `categories` (always `ai`, which keeps the `/ai/YYYY/MM/DD/slug.html`
+permalinks stable).
 
 ## SEO & Distribution
 
@@ -58,37 +39,15 @@ Posts can also define social sharing metadata fields:
 `summary` is used for description metadata and rich previews.
 `image` can override the default social image for a specific post.
 
-## Project Pages
+## Projects
 
-Project pages aggregate posts that share the same `project` metadata field.
-
-- Project registry: `docs/_data/projects.yml`
-- Project pages: `docs/projects/`
-- Post list include: `docs/_includes/project-post-list.html`
-
-When a post defines `project`, the post metadata automatically links to the
-matching project page when the project exists in the registry.
-Project pages also surface topic and series context derived from related posts.
-
-## Includes
-
-`project-card.html`  
-Reusable card used in the projects index.
-
-`project-post-list.html`  
-Renders posts belonging to a project page, including project context.
-
-`series-navigation.html`  
-Renders episode navigation for posts that belong to a series.
-
-`topic-card.html`  
-Reusable card used in the homepage topics grid.
+`docs/_data/projects.yml` lists the public projects shown on the homepage and on
+`/projects/`. Each entry links straight to the project (`url`); there are no
+per-project pages.
 
 ## Post Template
 
-The official automated publishing template lives at
-`docs/_templates/post-template.md`.
-
-This template is used by:
-- `ai-blog-engine`
-- `ai-content-factory`
+Posts are written by the weekly routine of `ellemmatos/ai-content-factory`,
+from its `editorial/templates/blog-post.md` and following
+`editorial/content-guidelines.md`. Every published piece is logged in
+`content/LOG.md`.

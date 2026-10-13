@@ -1,20 +1,22 @@
+# Blog topics. Each post sets `topic:` to one of these ids.
+# They mirror the content categories of ai-content-factory (editorial/backlog.yml).
 topics:
-  - id: ai-engineering
-    title: AI Engineering
-    description: Posts about building AI systems, tools, and infrastructure.
-    path: /topics/ai-engineering/
+  - id: ai-delivery
+    title: AI in Project Delivery
+    description: How project teams plan, meet, build and deliver with AI, in practice.
+    path: /topics/ai-delivery/
 
-  - id: startup-building
-    title: Startup Building
-    description: Notes on building startups in public.
-    path: /topics/startup-building/
+  - id: ai-news
+    title: AI & Claude News for Teams
+    description: The AI changes that matter for teams and leaders, explained from primary sources.
+    path: /topics/ai-news/
 
-  - id: architecture
-    title: Architecture
-    description: Software architecture decisions and patterns.
-    path: /topics/architecture/
+  - id: leadership
+    title: Leadership & Women in Tech
+    description: Leading remote teams, growing people and making room for women in technology.
+    path: /topics/leadership/
 
-  - id: developer-workflow
-    title: Developer Workflow
-    description: Developer productivity, tooling and workflows.
-    path: /topics/developer-workflow/
+  - id: career
+    title: Career & Work-Life
+    description: Careers, the job market, parenthood and coming back stronger.
+    path: /topics/career/
