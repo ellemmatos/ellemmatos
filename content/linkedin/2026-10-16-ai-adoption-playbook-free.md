@@ -6,7 +6,7 @@ topic_id: ai-adoption-playbook-lead-magnet
 title: "Free: my AI Adoption Playbook for engineering teams"
 linkedin_url: null
 image: 2026-10-16-ai-adoption-playbook-free.png
-image_alt: "Card: Free: my AI Adoption Playbook for engineering teams. 12 pages, 4 stages, 5 use cases and a 30-60-90 day plan. Comment PLAYBOOK to get it."
+image_alt: "Free: my AI Adoption Playbook for engineering teams. A 3D mock-up of the ebook cover, with 12 pages, 4 stages, 5 use cases and a 30-60-90 day plan. Comment PLAYBOOK and I will send it to you."
 card_subtitle: "12 pages · 4 stages · 5 use cases · a 30-60-90 day plan. Comment PLAYBOOK to get it."
 ---
 Most teams already have AI tools. Few work differently because of them.
