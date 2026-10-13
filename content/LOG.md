@@ -9,10 +9,12 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 
 | Date | Category | Title | Blog | LinkedIn | Status |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-16 | Lead magnet | Free: my AI Adoption Playbook for engineering teams | — (PDF on request: "comment PLAYBOOK") | scheduled (16 Oct, 09:30) | published |
 | 2026-10-12 | AI news | Your AI agent will not stop when it is stuck. Plan for that. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/10/12/ai-agents-dont-stop-when-stuck.html) | [post](https://www.linkedin.com/feed/update/urn:li:share:7515695569957392384/) (13 Oct) | published |
 | 2026-10-08 | AI in project delivery | AI Adoption Playbook for Engineering Teams | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/10/08/ai-adoption-playbook.html) | not posted by the pipeline | published (blog only) |
 
 ## Topics already used (do not repeat)
 
 - AI adoption playbook launch (method overview: four stages, use cases, coaching, guardrails, 30-60-90)
+- Playbook lead magnet: free 12-page PDF, "comment PLAYBOOK" post (not a topic for the weekly rotation)
 - AI agents that work around blocked tasks; "allowed / not allowed / if blocked" brief for agents
