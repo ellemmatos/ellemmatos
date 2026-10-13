@@ -1,11 +1,11 @@
 ---
-status: pending
+status: published
 publish_at: 2026-10-13T09:30:00+01:00
 category: ai-news
 topic_id: anthropic-unintended-model-actions
 title: "Your AI agent will not stop when it is stuck. Plan for that."
 blog_url: https://ellemmatos.github.io/ellemmatos/ai/2026/10/12/ai-agents-dont-stop-when-stuck.html
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7515695569957392384/
 image: 2026-10-12-ai-agents-dont-stop-when-stuck.png
 image_alt: "Card: Your AI agent will not stop when it is stuck. Plan for that. Three lines for every agent task: what it may touch, what it may not, and what to do when it is blocked."
 card_subtitle: "Three lines for every agent task: what it may touch, what it may not, and what to do when it is blocked."
