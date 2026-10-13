@@ -21,11 +21,6 @@ layout: default
     {% assign reading_time = 1 %}
   {% endif %}
 
-  {% assign project_data = nil %}
-  {% if page.project %}
-    {% assign project_data = site.data.projects.projects | where: "id", page.project | first %}
-  {% endif %}
-
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
@@ -34,55 +29,12 @@ layout: default
       &middot; {{ reading_time }} min read
       {% endif %}
     </p>
-    {% if topic_title != "" or page.project or page.series %}
-    <p class="post-meta">
-      {% if topic_title != "" %}
-      {{ topic_title }}
-      {% endif %}
-      {% if page.project %}
-      {% if topic_title != "" %} &middot; {% endif %}Project:
-      {% if project_data %}
-      <a href="/ellemmatos/projects/{{ project_data.id }}/">{{ project_data.name }}</a>
-      {% else %}
-      {{ page.project }}
-      {% endif %}
-      {% endif %}
-      {% if page.series %}
-      {% if topic_title != "" or page.project %} &middot; {% endif %}Series: {{ page.series | replace: "-", " " }}{% if page.episode %} (Episode {{ page.episode }}){% endif %}
-      {% endif %}
-    </p>
-    {% endif %}
-    {% assign valid_topics = "" | split: "" %}
-
-    {% for category in page.categories %}
-      {% unless category == "ellemmatos" or category == "blog" %}
-        {% assign valid_topics = valid_topics | push: category %}
-      {% endunless %}
-    {% endfor %}
-
-    {% if valid_topics.size > 0 %}
+    {% if topic_title != "" %}
     <p class="post-topics">
-      Topics:
-      {% for category in valid_topics %}
-        {% assign topic_slug = category %}
-        {% if category == "ai" %}
-          {% assign topic_slug = "ai-engineering" %}
-        {% endif %}
-        {% if category == "startup" %}
-          {% assign topic_slug = "startup-building" %}
-        {% endif %}
-        {% if category == "development" %}
-          {% assign topic_slug = "developer-workflow" %}
-        {% endif %}
-        <a href="/ellemmatos/topics/{{ topic_slug }}/" class="topic-link">{{ category }}</a>{% unless forloop.last %} &middot; {% endunless %}
-      {% endfor %}
+      Topic: <a href="/ellemmatos/topics/{{ page.topic }}/" class="topic-link">{{ topic_title }}</a>
     </p>
     {% endif %}
   </header>
-
-  {% if page.series %}
-  {% include series-navigation.html %}
-  {% endif %}
 
   <div class="post-content">
     {{ content }}

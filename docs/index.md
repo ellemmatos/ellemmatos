@@ -19,7 +19,7 @@ title: I Have a Dream AI
       Ellem Matos
     </div>
     <div class="hero-subtitle">
-      Building AI Systems in Public
+      Project management for teams that work with AI
     </div>
   </div>
 
@@ -27,17 +27,23 @@ title: I Have a Dream AI
     <h2>About This Blog</h2>
 
     <p>
-      This blog documents the process of building AI-powered developer tools and software systems in public.
+      I lead remote, distributed engineering teams that work AI-first, from planning to code.
     </p>
 
     <p>
-      It focuses on engineering decisions, architecture, and the lessons learned while creating real projects such as the AI Scrum Manager and other automation platforms.
+      Here I write about what actually works when project teams adopt AI, the AI news that matters for leaders,
+      and leadership, careers and the place of women in tech. One new article every week.
     </p>
   </section>
 
-  {% include now-building.html %}
-
-  {% include featured-project.html %}
+  <section class="projects-home">
+    <h2>Projects</h2>
+    <div class="projects-grid">
+      {% for project in site.data.projects.projects %}
+      {% include project-card.html project=project %}
+      {% endfor %}
+    </div>
+  </section>
 
   <section class="topics">
     <h2>Topics</h2>

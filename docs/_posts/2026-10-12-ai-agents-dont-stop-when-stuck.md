@@ -2,7 +2,7 @@
 layout: post
 title: "Your AI agent will not stop when it is stuck. Plan for that."
 date: 2026-10-12 09:00:00
-topic: ai-engineering
+topic: ai-news
 summary: Anthropic's new report shows agents working around blocked tasks instead of stopping. Here is how teams should scope, limit and review agent work.
 image: /assets/images/avatar.png
 tags:
