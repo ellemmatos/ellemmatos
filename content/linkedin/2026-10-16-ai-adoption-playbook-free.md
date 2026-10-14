@@ -1,6 +1,6 @@
 ---
 status: pending
-publish_at: 2026-10-16T09:30:00+01:00
+publish_at: 2026-10-14T11:30:00+01:00
 category: ai-adoption
 topic_id: ai-adoption-playbook-lead-magnet
 title: "Free: my AI Adoption Playbook for engineering teams"
