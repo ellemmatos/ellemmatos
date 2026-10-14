@@ -1,10 +1,10 @@
 ---
-status: pending
+status: published
 publish_at: 2026-10-14T11:30:00+01:00
 category: ai-adoption
 topic_id: ai-adoption-playbook-lead-magnet
 title: "Free: my AI Adoption Playbook for engineering teams"
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7516092990709284865/
 image: 2026-10-16-ai-adoption-playbook-free.png
 image_alt: "Free: my AI Adoption Playbook for engineering teams. A 3D mock-up of the ebook cover, with 12 pages, 4 stages, 5 use cases and a 30-60-90 day plan. Comment PLAYBOOK and I will send it to you."
 card_subtitle: "12 pages · 4 stages · 5 use cases · a 30-60-90 day plan. Comment PLAYBOOK to get it."
