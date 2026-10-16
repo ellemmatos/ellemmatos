@@ -12,6 +12,7 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 
 | Date | Category | Title | Blog | LinkedIn | Status |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-16 | AI in project delivery | Your team has AI tools. Nobody works differently. Here is why. (12-page playbook as a document post, posted by hand) | — (playbook link in the first comment: https://canva.link/y0r8job9qb3aul1) | [post](https://www.linkedin.com/feed/update/urn:li:activity:7516929671670722560/) (16 Oct) | published |
 | 2026-10-14 | Lead magnet | Free: my AI Adoption Playbook for engineering teams | — (PDF on request: "comment PLAYBOOK") | scheduled (14 Oct) | published |
 | 2026-10-12 | AI news | Your AI agent will not stop when it is stuck. Plan for that. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/10/12/ai-agents-dont-stop-when-stuck.html) | [post](https://www.linkedin.com/feed/update/urn:li:share:7515695569957392384/) (13 Oct) | published |
 | 2026-10-08 | AI in project delivery | AI Adoption Playbook for Engineering Teams | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/10/08/ai-adoption-playbook.html) | not posted by the pipeline | published (blog only) |
@@ -19,5 +20,6 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 ## Topics already used (do not repeat)
 
 - AI adoption playbook launch (method overview: four stages, use cases, coaching, guardrails, 30-60-90)
+- Playbook relaunch as a document post: "licences were never the problem, habits, confidence and trust were"; sit with each person for their first real task (not a topic for the weekly rotation)
 - Playbook lead magnet: free 12-page PDF, "comment PLAYBOOK" post (not a topic for the weekly rotation)
 - AI agents that work around blocked tasks; "allowed / not allowed / if blocked" brief for agents
