@@ -1,0 +1,77 @@
+# Slides for the carousel (LinkedIn document post).
+# Render: python ai-content-factory/scripts/render_carousel.py <this file>
+# Types: cover, statement, list, steps, table, cta. All text comes from the playbook.
+slides:
+  - type: cover
+    label: AI ADOPTION
+    title: "Your team has AI tools. Nobody works differently. Here is why."
+    subtitle: "What I learned coaching ~15 people from their first prompt to working on their own."
+
+  - type: statement
+    label: THE REAL GAP
+    title: "The problem is not the technology."
+    body:
+      - "It is habits, confidence, process and trust."
+      - "Buy licences and send a link, and adoption stays close to zero."
+      - "Someone has to sit with each person for the first real task."
+
+  - type: steps
+    label: THE ADOPTION PATH
+    title: "4 stages. The first one matters most."
+    items:
+      - ["Start", "Do one real task per person, together with AI."]
+      - ["Guide", "Short check-ins. Share the prompts that worked."]
+      - ["Autonomy", "People apply AI to their own code and tasks."]
+      - ["Scale", "Templates, a shared prompt library, one champion per team."]
+
+  - type: steps
+    label: THE FIRST SESSION
+    title: "30–45 minutes. One person. Real work."
+    items:
+      - ["Ask", "“What took you the most time last week?”"]
+      - ["Do", "Pick one of those tasks and do it together with AI."]
+      - ["Save", "Keep the prompt that worked in a shared place."]
+      - ["Agree", "One task they will try alone tomorrow."]
+    note: "Then a 10-minute follow-up a few days later."
+
+  - type: table
+    label: START WITH MEETINGS
+    title: "The pain is obvious, so the win is fast."
+    rows:
+      - ["Before", "AI drafts the agenda from the backlog."]
+      - ["During", "AI transcribes. You keep it on plan."]
+      - ["After", "AI writes decisions and actions in simple English."]
+    note: "Everyone acts on the same written summary."
+
+  - type: table
+    label: DIFFERENT ROLES
+    title: "Each role needs a different first win."
+    rows:
+      - ["Developer", "Explain unfamiliar code, draft tests, first code review."]
+      - ["Scrum Master", "Meeting agenda and summary, sprint planning prep."]
+      - ["Team Lead", "Status summaries, task breakdown, documentation."]
+
+  - type: list
+    label: GUARDRAILS
+    title: "Agree the rules before you scale."
+    items:
+      - "Data: what never goes into an AI tool, and which tools are approved."
+      - "Review: a named person owns every AI output that leaves the team."
+      - "Transparency: say when AI drafted a document or summary."
+      - "Quality: AI code follows the same review and test rules."
+
+  - type: list
+    label: MISTAKES TO AVOID
+    title: "5 ways to kill AI adoption."
+    items:
+      - "Start with the tool, not the team's pain."
+      - "Run one big training session and stop."
+      - "Skip the data rules."
+      - "Let unreviewed AI output reach a client."
+      - "Never measure where you started."
+
+  - type: cta
+    label: FREE PLAYBOOK
+    title: "Want the full 12-page playbook?"
+    body: "A 30-60-90 day plan, metrics and ready-to-use prompt templates."
+    action: "Link in the first comment"
