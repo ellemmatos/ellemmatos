@@ -12,6 +12,9 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 
 | Date | Category | Title | Blog | LinkedIn | Status |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-22 | AI in project delivery | Most AI meeting summaries are useless. Here is why. | — | scheduled (22 Oct) | published |
+| 2026-10-21 | AI this week | With AI agents, the bottleneck is now your attention | — | scheduled (21 Oct) | published |
+| 2026-10-20 | Leadership & women in tech | Your zigzag career in tech is not a weakness. It is your edge. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/10/19/zigzag-career-in-tech-is-your-edge.html) | scheduled (20 Oct) | published |
 | 2026-10-14 | Lead magnet | Free: my AI Adoption Playbook for engineering teams | — (PDF on request: "comment PLAYBOOK") | scheduled (14 Oct) | published |
 | 2026-10-12 | AI news | Your AI agent will not stop when it is stuck. Plan for that. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/10/12/ai-agents-dont-stop-when-stuck.html) | [post](https://www.linkedin.com/feed/update/urn:li:share:7515695569957392384/) (13 Oct) | published |
 | 2026-10-08 | AI in project delivery | AI Adoption Playbook for Engineering Teams | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/10/08/ai-adoption-playbook.html) | not posted by the pipeline | published (blog only) |
@@ -21,3 +24,6 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 - AI adoption playbook launch (method overview: four stages, use cases, coaching, guardrails, 30-60-90)
 - Playbook lead magnet: free 12-page PDF, "comment PLAYBOOK" post (not a topic for the weekly rotation)
 - AI agents that work around blocked tasks; "allowed / not allowed / if blocked" brief for agents
+- Non-linear career into tech as a strength (electronics, Army, .NET, delivery, AI): find the thread, one-sentence story, proof, AI prompt to map a CV to a job
+- Anthropic study on employment at Anthropic (16 Oct 2026): human attention as the bottleneck for agent work; plan review time, one owner per agent output
+- AI meeting summaries: nobody owns them; agenda before, transcript during, human-owned plain-English summary after
