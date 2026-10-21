@@ -1,11 +1,11 @@
 ---
-status: pending
+status: published
 slot: wed
 publish_at: 2026-10-21T09:30:00+01:00
 category: ai-trend
 topic_id: anthropic-employment-at-anthropic
 title: "With AI agents, the bottleneck is now your attention"
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7518589899260919809/
 image: 2026-10-19-human-attention-is-the-new-bottleneck.png
 image_alt: "Card: With AI agents, the bottleneck is now your attention. Plan review time like you plan build time."
 card_subtitle: "Plan review time like you plan build time."

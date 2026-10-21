@@ -1,12 +1,12 @@
 ---
-status: pending
+status: published
 slot: tue
 publish_at: 2026-10-20T09:30:00+01:00
 category: female-leadership
 topic_id: from-army-to-ai
 title: "Your zigzag career in tech is not a weakness. It is your edge."
 blog_url: https://ellemmatos.github.io/ellemmatos/ai/2026/10/19/zigzag-career-in-tech-is-your-edge.html
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7518589902742138880/
 image: 2026-10-19-zigzag-career-in-tech-is-your-edge.png
 image_alt: "Card: Your zigzag career in tech is not a weakness. It is your edge. Find the thread, tell it in one sentence, back it with proof."
 card_subtitle: "Find the thread, tell it in one sentence, back it with proof."
