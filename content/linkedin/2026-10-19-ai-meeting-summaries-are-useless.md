@@ -1,11 +1,11 @@
 ---
-status: pending
+status: published
 slot: thu
 publish_at: 2026-10-22T09:30:00+01:00
 category: ai-adoption
 topic_id: meeting-summaries-useless
 title: "Most AI meeting summaries are useless. Here is why."
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7518952416181026816/
 image: 2026-10-19-ai-meeting-summaries-are-useless.png
 image_alt: "Card: Most AI meeting summaries are useless. Here is why. Agenda before, transcript during, a human-checked summary after."
 card_subtitle: "Agenda before, transcript during, a human-checked summary after."
