@@ -1,12 +1,12 @@
 ---
-status: pending
+status: published
 slot: tue
 publish_at: 2026-10-27T09:30:00+00:00
 category: claude-news
 topic_id: claude-duet-research-preview
 title: "Your next AI assistant will message you first. Set the rules now."
 blog_url: https://ellemmatos.github.io/ellemmatos/ai/2026/10/26/ai-assistant-will-message-you-first.html
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7520779416541515776/
 image: 2026-10-26-ai-assistant-will-message-you-first.png
 image_alt: "Card: Your next AI assistant will message you first. Set the rules now. Delegate to AI agents like a manager: a clear brief, a small scope, weekly feedback."
 card_subtitle: "Delegate like a manager: a clear brief, a small scope, weekly feedback."
