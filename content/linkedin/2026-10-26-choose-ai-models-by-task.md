@@ -1,11 +1,11 @@
 ---
-status: pending
+status: published
 slot: wed
 publish_at: 2026-10-28T09:30:00+00:00
 category: ai-trend
 topic_id: openai-models-google-cloud
 title: "Choose AI models by task, not by contract"
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7521141811294322688/
 image: 2026-10-26-choose-ai-models-by-task.png
 image_alt: "Card: Choose AI models by task, not by contract. Keep five real tasks to test any new model."
 card_subtitle: "Keep five real tasks to test any new model."
