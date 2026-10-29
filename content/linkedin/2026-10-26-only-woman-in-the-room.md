@@ -1,11 +1,11 @@
 ---
-status: pending
+status: published
 slot: thu
 publish_at: 2026-10-29T09:30:00+00:00
 category: female-leadership
 topic_id: only-woman-in-the-room
 title: "Being the only woman in the room is common. Being unheard should not be."
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7521504187344662528/
 image: 2026-10-26-only-woman-in-the-room.png
 image_alt: "Card: Being the only woman in the room is common. Being unheard should not be. Small habits for the person speaking and for the person leading the meeting."
 card_subtitle: "Small habits for the person speaking, and for the person leading the meeting."
