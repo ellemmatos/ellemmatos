@@ -12,9 +12,9 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 
 | Date | Category | Title | Blog | LinkedIn | Status |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-29 | Leadership & women in tech | Being the only woman in the room is common. Being unheard should not be. | — | scheduled (29 Oct) | published |
-| 2026-10-28 | AI this week | Choose AI models by task, not by contract | — | scheduled (28 Oct) | published |
-| 2026-10-27 | Claude news | Your next AI assistant will message you first. Set the rules now. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/10/26/ai-assistant-will-message-you-first.html) | scheduled (27 Oct) | published |
+| 2026-10-29 | Leadership & women in tech | Being the only woman in the room is common. Being unheard should not be. | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7521504187344662528/) (29 Oct) | published |
+| 2026-10-28 | AI this week | Choose AI models by task, not by contract | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7521141811294322688/) (28 Oct) | published |
+| 2026-10-27 | Claude news | Your next AI assistant will message you first. Set the rules now. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/10/26/ai-assistant-will-message-you-first.html) | [post](https://www.linkedin.com/feed/update/urn:li:share:7520779416541515776/) (27 Oct) | published |
 | 2026-10-22 | AI in project delivery | Most AI meeting summaries are useless. Here is why. | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7518952416181026816/) (22 Oct) | published |
 | 2026-10-21 | AI this week | With AI agents, the bottleneck is now your attention | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7518589899260919809/) (21 Oct) | published |
 | 2026-10-20 | Leadership & women in tech | Your zigzag career in tech is not a weakness. It is your edge. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/10/19/zigzag-career-in-tech-is-your-edge.html) | [post](https://www.linkedin.com/feed/update/urn:li:share:7518589902742138880/) (21 Oct) | published |
