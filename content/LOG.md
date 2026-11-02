@@ -12,6 +12,9 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 
 | Date | Category | Title | Blog | LinkedIn | Status |
 | --- | --- | --- | --- | --- | --- |
+| 2026-11-05 | AI in project delivery | The legacy code nobody understands is your best AI use case | — | scheduled (5 Nov) | published |
+| 2026-11-04 | AI this week | AI as first reviewer, humans as final sign-off | — | scheduled (4 Nov) | published |
+| 2026-11-03 | Career & work-life | AI will not give you work-life balance. But it can buy back 5 hours a week. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/02/ai-can-buy-back-5-hours.html) | scheduled (3 Nov) | published |
 | 2026-10-29 | Leadership & women in tech | Being the only woman in the room is common. Being unheard should not be. | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7521504187344662528/) (29 Oct) | published |
 | 2026-10-28 | AI this week | Choose AI models by task, not by contract | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7521141811294322688/) (28 Oct) | published |
 | 2026-10-27 | Claude news | Your next AI assistant will message you first. Set the rules now. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/10/26/ai-assistant-will-message-you-first.html) | [post](https://www.linkedin.com/feed/update/urn:li:share:7520779416541515776/) (27 Oct) | published |
@@ -33,3 +36,6 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 - Claude Duet (21 Oct 2026), a proactive agent: delegate like a manager; read-only routine first, delegation brief, meaningful approvals, weekly review
 - OpenAI models on Google Cloud (21 Oct 2026): choose models by task, keep a five-task test set
 - Being the only woman in the room: habits for the person speaking and for the meeting lead (speak early, connect ideas back, turn-taking, credit by name)
+- AI routines for working parents and busy leads: measure the week, two routines first, two-week test, protect the saved time ("5 hours" as a target, not a promise)
+- Anthropic drug development results (27 Oct 2026): AI as first reviewer of documentation, a named person for final sign-off
+- Documenting legacy code with AI: one module at a time, review by the person who knows the code, save next to the code
