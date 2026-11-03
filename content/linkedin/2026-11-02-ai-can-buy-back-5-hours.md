@@ -1,12 +1,12 @@
 ---
-status: pending
+status: published
 slot: tue
 publish_at: 2026-11-03T09:30:00+00:00
 category: motherhood-career
 topic_id: ai-buys-back-time
 title: "AI will not give you work-life balance. But it can buy back 5 hours a week."
 blog_url: https://ellemmatos.github.io/ellemmatos/ai/2026/11/02/ai-can-buy-back-5-hours.html
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7523316063518797824/
 image: 2026-11-02-ai-can-buy-back-5-hours.png
 image_alt: "Card: AI will not give you work-life balance. But it can buy back 5 hours a week. Small routines, a two-week test, and a plan for the time you save."
 card_subtitle: "Small routines, a two-week test, and a plan for the time you save."
