@@ -1,11 +1,11 @@
 ---
-status: pending
+status: published
 slot: thu
 publish_at: 2026-11-05T09:30:00+00:00
 category: ai-adoption
 topic_id: legacy-code-nobody-understands
 title: "The legacy code nobody understands is your best AI use case"
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7524040817339039744/
 image: 2026-11-02-legacy-code-best-ai-use-case.png
 image_alt: "Card: The legacy code nobody understands is your best AI use case. Ask AI to explain it, then ask the person who knows it to check."
 card_subtitle: "Ask AI to explain it, then ask the person who knows it to check."
