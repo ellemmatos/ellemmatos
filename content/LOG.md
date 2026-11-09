@@ -12,6 +12,9 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 
 | Date | Category | Title | Blog | LinkedIn | Status |
 | --- | --- | --- | --- | --- | --- |
+| 2026-11-12 | Career & work-life | Back from maternity leave, and AI had moved on. Now what? | — | scheduled (Thu) | published |
+| 2026-11-11 | AI this week | Before you scale AI, check your settings against a baseline | — | scheduled (Wed) | published |
+| 2026-11-10 | AI in project delivery | Project planning should not be a typing session | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/09/project-planning-not-a-typing-session.html) | scheduled (Tue) | published |
 | 2026-11-05 | AI in project delivery | The legacy code nobody understands is your best AI use case | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7524040817339039744/) (5 Nov) | published |
 | 2026-11-04 | AI this week | AI as first reviewer, humans as final sign-off | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7523678489863020544/) (4 Nov) | published |
 | 2026-11-03 | Career & work-life | AI will not give you work-life balance. But it can buy back 5 hours a week. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/02/ai-can-buy-back-5-hours.html) | [post](https://www.linkedin.com/feed/update/urn:li:share:7523316063518797824/) (3 Nov) | published |
@@ -39,3 +42,6 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 - AI routines for working parents and busy leads: measure the week, two routines first, two-week test, protect the saved time ("5 hours" as a target, not a promise)
 - Anthropic drug development results (27 Oct 2026): AI as first reviewer of documentation, a named person for final sign-off
 - Documenting legacy code with AI: one module at a time, review by the person who knows the code, save next to the code
+- AI-prepared project planning: draft tasks, acceptance criteria, dependencies and risks before the meeting; the meeting is for decisions
+- Claude Enterprise security center (5 Nov 2026): check AI settings against a recommended baseline before scaling
+- Returning from maternity leave while AI moved fast: catch up on purpose (team demos, three changes that matter, 20 minutes a day)
