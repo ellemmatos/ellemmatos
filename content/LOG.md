@@ -13,7 +13,7 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 | Date | Category | Title | Blog | LinkedIn | Status |
 | --- | --- | --- | --- | --- | --- |
 | 2026-11-12 | Career & work-life | Back from maternity leave, and AI had moved on. Now what? | — | scheduled (Thu) | published |
-| 2026-11-11 | AI trend | Before you scale AI, check your settings against a baseline | — | scheduled (Wed) | published |
+| 2026-11-11 | AI this week | Before you scale AI, check your settings against a baseline | — | scheduled (Wed) | published |
 | 2026-11-10 | AI in project delivery | Project planning should not be a typing session | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/09/project-planning-not-a-typing-session.html) | scheduled (Tue) | published |
 | 2026-11-05 | AI in project delivery | The legacy code nobody understands is your best AI use case | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7524040817339039744/) (5 Nov) | published |
 | 2026-11-04 | AI this week | AI as first reviewer, humans as final sign-off | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7523678489863020544/) (4 Nov) | published |
