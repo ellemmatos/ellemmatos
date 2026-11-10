@@ -1,12 +1,12 @@
 ---
-status: pending
+status: published
 slot: tue
 publish_at: 2026-11-10T09:30:00+00:00
 category: ai-adoption
 topic_id: sprint-planning-with-ai
 title: "Project planning should not be a typing session"
 blog_url: https://ellemmatos.github.io/ellemmatos/ai/2026/11/09/project-planning-not-a-typing-session.html
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7525852755928997888/
 image: 2026-11-09-project-planning-not-a-typing-session.png
 image_alt: "Card: Project planning should not be a typing session. Let AI prepare the tasks; keep the meeting for decisions."
 card_subtitle: "Let AI prepare the tasks; keep the meeting for decisions."
