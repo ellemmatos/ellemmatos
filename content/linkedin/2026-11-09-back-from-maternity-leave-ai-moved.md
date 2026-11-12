@@ -1,11 +1,11 @@
 ---
-status: pending
+status: published
 slot: thu
 publish_at: 2026-11-12T09:30:00+00:00
 category: motherhood-career
 topic_id: maternity-leave-better-leader
 title: "Back from maternity leave, and AI had moved on. Now what?"
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7526577601956446208/
 image: 2026-11-09-back-from-maternity-leave-ai-moved.png
 image_alt: "Card: Back from maternity leave, and AI had moved on. Now what? Catch up on what changes your work, not on everything."
 card_subtitle: "Catch up on what changes your work, not on everything."
