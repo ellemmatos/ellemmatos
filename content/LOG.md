@@ -12,9 +12,9 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 
 | Date | Category | Title | Blog | LinkedIn | Status |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-12 | Career & work-life | Back from maternity leave, and AI had moved on. Now what? | — | scheduled (Thu) | published |
-| 2026-11-11 | AI this week | Before you scale AI, check your settings against a baseline | — | scheduled (Wed) | published |
-| 2026-11-10 | AI in project delivery | Project planning should not be a typing session | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/09/project-planning-not-a-typing-session.html) | scheduled (Tue) | published |
+| 2026-11-12 | Career & work-life | Back from maternity leave, and AI had moved on. Now what? | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7526577601956446208/) (12 Nov) | published |
+| 2026-11-11 | AI this week | Before you scale AI, check your settings against a baseline | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7526215198626533376/) (11 Nov) | published |
+| 2026-11-10 | AI in project delivery | Project planning should not be a typing session | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/09/project-planning-not-a-typing-session.html) | [post](https://www.linkedin.com/feed/update/urn:li:share:7525852755928997888/) (10 Nov) | published |
 | 2026-11-05 | AI in project delivery | The legacy code nobody understands is your best AI use case | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7524040817339039744/) (5 Nov) | published |
 | 2026-11-04 | AI this week | AI as first reviewer, humans as final sign-off | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7523678489863020544/) (4 Nov) | published |
 | 2026-11-03 | Career & work-life | AI will not give you work-life balance. But it can buy back 5 hours a week. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/02/ai-can-buy-back-5-hours.html) | [post](https://www.linkedin.com/feed/update/urn:li:share:7523316063518797824/) (3 Nov) | published |
