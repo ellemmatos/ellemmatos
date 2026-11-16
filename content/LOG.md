@@ -12,6 +12,9 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 
 | Date | Category | Title | Blog | LinkedIn | Status |
 | --- | --- | --- | --- | --- | --- |
+| 2026-11-19 | Leadership & women in tech | You do not always need senior people. You can grow them. | — | scheduled (Thu) | published |
+| 2026-11-18 | AI this week | Where your AI agents run is now a choice | — | scheduled (Wed) | published |
+| 2026-11-17 | Claude news | Claude can now join your meetings. Decide what it may do. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/16/claude-can-join-your-meetings.html) | scheduled (Tue) | published |
 | 2026-11-12 | Career & work-life | Back from maternity leave, and AI had moved on. Now what? | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7526577601956446208/) (12 Nov) | published |
 | 2026-11-11 | AI this week | Before you scale AI, check your settings against a baseline | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7526215198626533376/) (11 Nov) | published |
 | 2026-11-10 | AI in project delivery | Project planning should not be a typing session | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/09/project-planning-not-a-typing-session.html) | [post](https://www.linkedin.com/feed/update/urn:li:share:7525852755928997888/) (10 Nov) | published |
@@ -45,3 +48,6 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 - AI-prepared project planning: draft tasks, acceptance criteria, dependencies and risks before the meeting; the meeting is for decisions
 - Claude Enterprise security center (5 Nov 2026): check AI settings against a recommended baseline before scaling
 - Returning from maternity leave while AI moved fast: catch up on purpose (team demos, three changes that matter, 20 minutes a day)
+- Claude Meetings beta (12 Nov 2026): an AI participant that acts during calls; team agreement on consent, meetings, allowed tools, output owner, review date
+- Self-hosted Claude Managed Agents (12 Nov 2026): where agents and data run is a choice; involve security before the pilot
+- Growing inexperienced team leads: shared playbook, short workshops, early responsibility, fixed coaching rhythm
