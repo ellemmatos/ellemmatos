@@ -1,12 +1,12 @@
 ---
-status: pending
+status: published
 slot: tue
 publish_at: 2026-11-17T09:30:00+00:00
 category: claude-news
 topic_id: claude-meetings-beta
 title: "Claude can now join your meetings. Decide what it may do."
 blog_url: https://ellemmatos.github.io/ellemmatos/ai/2026/11/16/claude-can-join-your-meetings.html
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7528389473751941122/
 image: 2026-11-16-claude-can-join-your-meetings.png
 image_alt: "Card: Claude can now join your meetings. Decide what it may do. A short team agreement comes first."
 card_subtitle: "A short team agreement comes first."
