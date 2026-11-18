@@ -1,11 +1,11 @@
 ---
-status: pending
+status: published
 slot: wed
 publish_at: 2026-11-18T09:30:00+00:00
 category: ai-trend
 topic_id: self-hosted-claude-managed-agents
 title: "Where your AI agents run is now a choice"
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7528751891544137729/
 image: 2026-11-16-where-your-ai-agents-run.png
 image_alt: "Card: Where your AI agents run is now a choice. Bring security in early, before the pilot."
 card_subtitle: "Bring security in early, before the pilot."
