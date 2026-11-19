@@ -1,11 +1,11 @@
 ---
-status: pending
+status: published
 slot: thu
 publish_at: 2026-11-19T09:30:00+00:00
 category: female-leadership
 topic_id: mentoring-junior-scrum-masters
 title: "You do not always need senior people. You can grow them."
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7529114312708231168/
 image: 2026-11-16-grow-your-team-leads.png
 image_alt: "Card: You do not always need senior people. You can grow them. A playbook, practice and a steady coaching rhythm."
 card_subtitle: "A playbook, real practice and a steady coaching rhythm."
