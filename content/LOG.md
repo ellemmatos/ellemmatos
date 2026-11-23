@@ -12,6 +12,9 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 
 | Date | Category | Title | Blog | LinkedIn | Status |
 | --- | --- | --- | --- | --- | --- |
+| 2026-11-26 | Leadership & women in tech | You do not need to write code to be the technical voice | — | scheduled (Thu) | published |
+| 2026-11-25 | AI this week | Give every AI tool a spend limit | — | scheduled (Wed) | published |
+| 2026-11-24 | AI project management | I am going back to school on AI project management. Hold me accountable. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/23/back-to-school-ai-project-management.html) | scheduled (Tue) | published |
 | 2026-11-19 | Leadership & women in tech | You do not always need senior people. You can grow them. | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7529114312708231168/) (19 Nov) | published |
 | 2026-11-18 | AI this week | Where your AI agents run is now a choice | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7528751891544137729/) (18 Nov) | published |
 | 2026-11-17 | Claude news | Claude can now join your meetings. Decide what it may do. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/16/claude-can-join-your-meetings.html) | [post](https://www.linkedin.com/feed/update/urn:li:share:7528389473751941122/) (17 Nov) | published |
@@ -51,3 +54,6 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 - Claude Meetings beta (12 Nov 2026): an AI participant that acts during calls; team agreement on consent, meetings, allowed tools, output owner, review date
 - Self-hosted Claude Managed Agents (12 Nov 2026): where agents and data run is a choice; involve security before the pilot
 - Growing inexperienced team leads: shared playbook, short workshops, early responsibility, fixed coaching rhythm
+- Series kickoff "7 AI project patterns in 7 weeks": using AI in projects vs managing AI projects, the free PMI course, learning in public
+- Linked billing on the Claude Platform (17 Nov 2026): a spend limit per AI tool and an owner for AI costs
+- Technical credibility without writing code: architecture questions, challenging estimates, backing the tech lead
