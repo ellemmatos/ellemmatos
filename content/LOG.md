@@ -12,9 +12,9 @@ Everything published on the blog and on LinkedIn, newest first. Check this table
 
 | Date | Category | Title | Blog | LinkedIn | Status |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-19 | Leadership & women in tech | You do not always need senior people. You can grow them. | — | scheduled (Thu) | published |
-| 2026-11-18 | AI this week | Where your AI agents run is now a choice | — | scheduled (Wed) | published |
-| 2026-11-17 | Claude news | Claude can now join your meetings. Decide what it may do. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/16/claude-can-join-your-meetings.html) | scheduled (Tue) | published |
+| 2026-11-19 | Leadership & women in tech | You do not always need senior people. You can grow them. | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7529114312708231168/) (19 Nov) | published |
+| 2026-11-18 | AI this week | Where your AI agents run is now a choice | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7528751891544137729/) (18 Nov) | published |
+| 2026-11-17 | Claude news | Claude can now join your meetings. Decide what it may do. | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/16/claude-can-join-your-meetings.html) | [post](https://www.linkedin.com/feed/update/urn:li:share:7528389473751941122/) (17 Nov) | published |
 | 2026-11-12 | Career & work-life | Back from maternity leave, and AI had moved on. Now what? | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7526577601956446208/) (12 Nov) | published |
 | 2026-11-11 | AI this week | Before you scale AI, check your settings against a baseline | — | [post](https://www.linkedin.com/feed/update/urn:li:share:7526215198626533376/) (11 Nov) | published |
 | 2026-11-10 | AI in project delivery | Project planning should not be a typing session | [article](https://ellemmatos.github.io/ellemmatos/ai/2026/11/09/project-planning-not-a-typing-session.html) | [post](https://www.linkedin.com/feed/update/urn:li:share:7525852755928997888/) (10 Nov) | published |
