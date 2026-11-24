@@ -1,12 +1,12 @@
 ---
-status: pending
+status: published
 slot: tue
 publish_at: 2026-11-24T09:30:00+00:00
 category: ai-project-management
 topic_id: ai-pm-learning-in-public-kickoff
 title: "I am going back to school on AI project management. Hold me accountable."
 blog_url: https://ellemmatos.github.io/ellemmatos/ai/2026/11/23/back-to-school-ai-project-management.html
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7530926297284370432/
 image: 2026-11-23-back-to-school-ai-project-management.png
 image_alt: "Card: I am going back to school on AI project management. Hold me accountable. One AI project pattern a week, in public."
 card_subtitle: "One AI project pattern a week, in public."
