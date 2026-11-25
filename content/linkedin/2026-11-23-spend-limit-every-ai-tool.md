@@ -1,11 +1,11 @@
 ---
-status: pending
+status: published
 slot: wed
 publish_at: 2026-11-25T09:30:00+00:00
 category: ai-trend
 topic_id: linked-billing-claude-platform
 title: "Give every AI tool a spend limit"
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7531288625406312448/
 image: 2026-11-23-spend-limit-every-ai-tool.png
 image_alt: "Card: Give every AI tool a spend limit. AI costs grow with use; plan the limit before the pilot."
 card_subtitle: "AI costs grow with use. Plan the limit before the pilot."
