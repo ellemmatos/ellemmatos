@@ -1,11 +1,11 @@
 ---
-status: pending
+status: published
 slot: thu
 publish_at: 2026-11-26T09:30:00+00:00
 category: female-leadership
 topic_id: technical-voice-in-the-room
 title: "You do not need to write code to be the technical voice"
-linkedin_url: null
+linkedin_url: https://www.linkedin.com/feed/update/urn:li:share:7531650908783316992/
 image: 2026-11-23-technical-voice-without-code.png
 image_alt: "Card: You do not need to write code to be the technical voice. Ask the right questions, challenge estimates, back your tech lead."
 card_subtitle: "Ask the right questions, challenge estimates, back your tech lead."
